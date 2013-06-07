@@ -4,6 +4,7 @@ title: Twitter Acquisitions
 url: http://kinlane.github.io/api-voice/2012/07/09/twitter-acquisitions/
 source: http://kinlane.github.io/api-voice/2012/07/09/twitter-acquisitions/
 domain: kinlane.github.io
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/twitter-bird-blue-on-white.png
 ---
 {% include JB/setup %}<p><p><a title="Twitter" href="http://www.twitter.com/" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/twitter/twitter-bird-blue-on-white.png" alt="" width="150" align="right" /></a></p>
 <p>Acquisition of technology startups by companies is a regular part of business today, providing a way for these companies to get the technology, talent, as well as user and market share they need to be successful. These acquisitions play an important part of API ecosystems, with API owners hoping developers build the next killer feature that users will love, something they can invest in, and developers dream API owners will notice their work and purchase their &ldquo;startup&rdquo;.</p>

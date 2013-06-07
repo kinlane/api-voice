@@ -4,6 +4,7 @@ title: BandPage Successfully Pivots After Significant Zucker Punch
 url: http://kinlane.github.io/api-voice/2012/07/25/bandpage-successful-pivots-after-significant-zucker-punch/
 source: http://kinlane.github.io/api-voice/2012/07/25/bandpage-successful-pivots-after-significant-zucker-punch/
 domain: kinlane.github.io
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/BandPage-Logo-1.png
 ---
 {% include JB/setup %}<p><p><a title="BandPage" href="http://www.bandpage.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/bandpage/BandPage-Logo-1.png" alt="" width="150" align="right" /></a></p>
 <p>When you are building on someone else&rsquo;s platform, you have to roll with any punches that get thrown your way. This is the nature of API development, and while we can hope that API owners are going to be as sensitive to developers as possible, it is ultimately the developers responsibility to accept change.</p>

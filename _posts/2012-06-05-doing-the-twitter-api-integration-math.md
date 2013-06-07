@@ -4,6 +4,7 @@ title: Doing the Twitter API Integration Math
 url: http://kinlane.github.io/api-voice/2012/06/05/doing-the-twitter-api-integration-math/
 source: http://kinlane.github.io/api-voice/2012/06/05/doing-the-twitter-api-integration-math/
 domain: kinlane.github.io
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/twitter-full-logo-black.png
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/twitter/twitter-full-logo-black.png" alt="" align="right" /></p>
 <p>I&rsquo;m expanding the <a title="API Evangelist" href="http://www.apievangelist.com">API Evangelist</a> network.  I&rsquo;ve recently taken down the API area of API Evangelist, and launching under the brand API stack. &nbsp;Then I&rsquo;m formalizing some aspects of my API industry monitoring in two areas:</p>

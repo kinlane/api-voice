@@ -4,6 +4,7 @@ title: The 3 Legs Of An Open API
 url: http://kinlane.github.io/api-voice/2013/04/15/the-3-legs-of-open-api/
 source: http://kinlane.github.io/api-voice/2013/04/15/the-3-legs-of-open-api/
 domain: kinlane.github.io
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/open.jpg
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/open.jpg" alt="" width="250" align="right" /></p>
 <p>I am working through some thoughts on the usage of the term &ldquo;open&rdquo;, when branding, launching and marketing your API.</p>

@@ -4,6 +4,7 @@ title: Help EFF Make Case For No Copryight on APIs
 url: http://kinlane.github.io/api-voice/2012/11/02/help-eff-make-case-for-no-copryight-on-apis/
 source: http://kinlane.github.io/api-voice/2012/11/02/help-eff-make-case-for-no-copryight-on-apis/
 domain: kinlane.github.io
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/electronic-frontier-foundation-logo.gif
 ---
 {% include JB/setup %}<p><p><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/electronic-frontier-foundation/electronic-frontier-foundation-logo.gif" alt="" width="200" align="right" /></p>
 <p>The&nbsp;<a href="https://www.eff.org/deeplinks/2012/11/no-copyrights-apis-help-us-make-case">Electronic Frontier Foundation (EFF) needs our help</a>&nbsp;to explain to the Federal Circuit Court on why there should&nbsp;<strong><span>NOT</span></strong>&nbsp;be copyrights on APIs. As EFF published today:</p>

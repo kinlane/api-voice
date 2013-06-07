@@ -4,6 +4,7 @@ title: An API Should Allow Users Access To All Data In A System
 url: http://kinlane.github.io/api-voice/2012/12/16/an-api-should-allow-users-access-to-all-data-in-a-system/
 source: http://kinlane.github.io/api-voice/2012/12/16/an-api-should-allow-users-access-to-all-data-in-a-system/
 domain: kinlane.github.io
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/flickr-logo.jpg
 ---
 {% include JB/setup %}<p><p><a title="Flickr APII" href="http://www.flickr.com/services/api/"><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/flickr.jpg" alt="" width="200" align="right" /></a></p>
 <p>There was a great post by Doc Searls today called <a href="http://blogs.law.harvard.edu/vrm/2012/12/16/toward-a-matrix-of-apis/">Toward a Matrix of APIs</a>, where he recalls a talk by Cal Henderson of Flickr at the 2006 O&rsquo;Reilly Emerging Technology Conference, where Henderson explained the principles behind the <a title="Flickr API" href="http://www.flickr.com/services/api/">Flickr API</a>.</p>

@@ -4,6 +4,7 @@ title: The Business and Politics of Twitter's API
 url: http://kinlane.github.io/api-voice/2012/05/06/the-business-and-politics-of-twitters-api/
 source: http://kinlane.github.io/api-voice/2012/05/06/the-business-and-politics-of-twitters-api/
 domain: kinlane.github.io
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Tag-Cloud-Deep-Research-Twitter.png
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-voice/Tag-Cloud-Deep-Research-Twitter.png" alt="" width="350" align="right" /></p>
 <p>For the last two years, while studying the Business of APIs for <a title="API Evangelist" href="http://apievangelist.com">API Evangelist</a>, one API comes up the most in both online and offline discussions--<a title="Twitter" href="http://twitter.com"><strong>Twitter</strong></a>.</p>

@@ -4,6 +4,7 @@ title: Twitter Launches New, Not So Open Graph, aka Twitter Cards
 url: http://kinlane.github.io/api-voice/2012/06/13/twitter-launches-new-not-so-open-graph-aka-twitter-cards/
 source: http://kinlane.github.io/api-voice/2012/06/13/twitter-launches-new-not-so-open-graph-aka-twitter-cards/
 domain: kinlane.github.io
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/twitter-dave-winer.gif
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/twitter/twitter-dave-winer.gif" alt="" width="250" align="right" /></p>
 <p>I woke up this morning to Dave Winer&rsquo;s post, <a href="http://scripting.com/stories/2012/06/13/twittersLevelPlayingField.html">Twitter's (not) level playing field</a>, in my feed.  Where Dave is trying to understand the logic of what content goes into the "detail" pane of a Tweet.  At first glance it looks purely like Twitter is supporting&nbsp;<a href="http://oembed.com/">oEmbed</a>, then from looking at the code of some of their partners it appears to be an <a href="http://ogp.me/">Open Graph</a> implementation.</p>

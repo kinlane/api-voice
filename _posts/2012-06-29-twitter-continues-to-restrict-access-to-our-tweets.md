@@ -4,6 +4,7 @@ title: Twitter Continues to Restrict Access to Our Tweets
 url: http://kinlane.github.io/api-voice/2012/06/29/twitter-continues-to-restrict-access-to-our-tweets/
 source: http://kinlane.github.io/api-voice/2012/06/29/twitter-continues-to-restrict-access-to-our-tweets/
 domain: kinlane.github.io
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/twitter-access.png
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/twitter/twitter-access.png" alt="" width="200" align="right" /></p>
 <p>Twitter has become a global communication platform, allowing anyone in the world to express anything, from simple everyday thoughts, to ideas that some say have the potential to be the seeds of revolution.  Twitter&rsquo;s success was made possible because of open access to Twitter via the web and mobile phones via either SMS or native apps--with a large portion of this access made possible via an open Twitter API.</p>

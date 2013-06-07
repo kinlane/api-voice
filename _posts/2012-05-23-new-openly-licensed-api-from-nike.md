@@ -4,6 +4,7 @@ title: New Openly Licensed API from Nike
 url: http://kinlane.github.io/api-voice/2012/05/23/new-openly-licensed-api-from-nike/
 source: http://kinlane.github.io/api-voice/2012/05/23/new-openly-licensed-api-from-nike/
 domain: kinlane.github.io
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Nike-Makers.png
 ---
 {% include JB/setup %}<p><p><a href="http://nikemakers.tumblr.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/nike/Nike-Makers.png" alt="" width="250" align="right" /></a></p>
 <p>I was writing a story on <a title="Nike&rsquo;s new Sustainable Products Index API" href="http://www.apievangelist.com/2012/05/23/nike-sustainable-products-index-api/">Nike&rsquo;s new Sustainable Products Index API</a> for API Evangelist, and beyond the business use of the API I noticed the interesting licensing Nike decide to use for the data and the API:</p>

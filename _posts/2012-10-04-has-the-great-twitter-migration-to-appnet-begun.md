@@ -4,6 +4,7 @@ title: Has the Great Twitter Migration to App.net Begun?
 url: http://kinlane.github.io/api-voice/2012/10/04/has-the-great-twitter-migration-to-app.net-begun/
 source: http://kinlane.github.io/api-voice/2012/10/04/has-the-great-twitter-migration-to-app.net-begun/
 domain: kinlane.github.io
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Netbot.png
 ---
 {% include JB/setup %}<p><p><a href="http://tapbots.com/software/netbot/"><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/netbot/Netbot.png" alt="" width="200" align="right" /></a></p>
 <p><a href="https://alpha.app.net/kinlane">I only have 31 followers</a> on <a title="App.net" href="http://app.net">App.net</a>, but most of that is from the last couple days.  I&rsquo;ve heard from a couple other users, that they are seeing an uptick in the number of followers, as well as seeing people they know signing up for App.net in the last couple days too.</p>

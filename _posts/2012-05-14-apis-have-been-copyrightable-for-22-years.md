@@ -4,6 +4,7 @@ title: APIs Have Been Copyrightable for 22 Years
 url: http://kinlane.github.io/api-voice/2012/05/14/apis-have-been-copyrightable-for-22-years/
 source: http://kinlane.github.io/api-voice/2012/05/14/apis-have-been-copyrightable-for-22-years/
 domain: kinlane.github.io
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/api-legal.jpg
 ---
 {% include JB/setup %}<p><p><img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/api-legal.jpg" alt="" width="250" align="right" /></p>
 <p>I attended a great webinar put on by the folks at <a title="Apigee" href="/serviceproviders/apigee.php">Apigee</a> last week, where they discussed <a title="APIs &amp; Copyright" href="http://www.slideshare.net/apigee/apis-copyrights">APIs &amp; Copyright</a>.  A very timely discussion with the recent API copyright decision in the EU, and from the ongoing <a title="Oracle vs. Google" href="http://apivoice.com/2012/05/07/us-precedent-for-api-copyright-hinges-on-oracle-v-google/">Oracle vs. Google case</a>.</p>

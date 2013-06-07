@@ -4,6 +4,7 @@ title: Investment in Twitter
 url: http://kinlane.github.io/api-voice/2012/07/22/investment-in-twitter/
 source: http://kinlane.github.io/api-voice/2012/07/22/investment-in-twitter/
 domain: kinlane.github.io
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/twitter-bird-blue-on-white.png
 ---
 {% include JB/setup %}<p><p><a title="Twitter" href="http://www.twitter.com/" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/twitter/twitter-bird-blue-on-white.png" alt="" width="150" align="right" /></a></p>
 <p class="p1">I wanted to have a better grasp of approximately how much money Twitter has raised to date, and who these investors are. &nbsp;This investment has allowed Twitter to grow, and these investors significantly influence Twitter, when it comes to monetization and the fate of the developer ecosystem.</p>

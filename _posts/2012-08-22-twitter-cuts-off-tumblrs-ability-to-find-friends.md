@@ -4,6 +4,7 @@ title: Twitter Cuts Off Tumblr's Ability to Find Friends
 url: http://kinlane.github.io/api-voice/2012/08/22/twitter-cuts-off-tumblrs-ability-to-find-friends/
 source: http://kinlane.github.io/api-voice/2012/08/22/twitter-cuts-off-tumblrs-ability-to-find-friends/
 domain: kinlane.github.io
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/tumblr_logo.png
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/tumblr/tumblr_logo.png" alt="" width="250" align="right" /></p>
 <p>It appears that nobody is immune from Twitter&rsquo;s recent spree, ending partnerships and taking total control over the data on its platform.  According to <a title="The NextWeb Tumblr just had their Twitter friend-finding privileges revoked" href="http://thenextweb.com/twitter/2012/08/22/tumblr-becomes-next-property-instagram-twitter-friend-finding-privileges-revoked/">The NextWeb Tumblr just had their Twitter friend-finding privileges revoked</a>.</p>

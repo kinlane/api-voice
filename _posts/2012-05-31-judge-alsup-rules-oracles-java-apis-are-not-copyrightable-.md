@@ -4,6 +4,7 @@ title: Judge Alsup Rules Oracles Java APIs are Not Copyrightable
 url: http://kinlane.github.io/api-voice/2012/05/31/judge-alsup-rules-oracles-java-apis-are-not-copyrightable-/
 source: http://kinlane.github.io/api-voice/2012/05/31/judge-alsup-rules-oracles-java-apis-are-not-copyrightable-/
 domain: kinlane.github.io
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/oraclevgoogle.png
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-voice/oraclevgoogle/oraclevgoogle.png" alt="" width="250" align="right" /></p>
 <p><a href="http://www.groklaw.net/article.php?story=20120531173633275">Juddge Alsup finally came in with an official ruling</a> on whether or not APIs are copyrightable:</p>

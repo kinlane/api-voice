@@ -4,6 +4,7 @@ title: Twitter API Integration Math: REST API
 url: http://kinlane.github.io/api-voice/2012/06/06/twitter-api-integration-math-rest-api/
 source: http://kinlane.github.io/api-voice/2012/06/06/twitter-api-integration-math-rest-api/
 domain: kinlane.github.io
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/twitter-bird-blue-on-white.png
 ---
 {% include JB/setup %}<p><p><img src="http://kinlane-productions.s3.amazonaws.com/twitter/twitter-bird-blue-on-white.png" alt="" width="200" align="right" /></p>
 <p>I talked yesterday about the <a title="Twitter API Integration I'm doing for my API ranking and monitoring system" href="/2012/06/05/doing-the-twitter-api-integration-math/">Twitter API integration I&rsquo;m doing for my API Evangelist ranking and monitoring system</a>.  Long story short is I&rsquo;m trying to get a large volume of Tweets from a large number of Twitter accounts for use in my ranking and monitoring algorithm, and for display on API, service provider and hackathon detail pages.</p>

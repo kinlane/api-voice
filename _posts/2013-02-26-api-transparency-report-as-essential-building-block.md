@@ -4,6 +4,7 @@ title: API Transparency Report as Essential Building Block
 url: http://kinlane.github.io/api-voice/2013/02/26/api-transparency-report-as-essential-building-block/
 source: http://kinlane.github.io/api-voice/2013/02/26/api-transparency-report-as-essential-building-block/
 domain: kinlane.github.io
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/tag-cloud-transparency-report.jpg
 ---
 {% include JB/setup %}<p><p><img style="padding: 10px;" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/tag-cloud-transparency-report.jpg" alt="" width="325" align="right" /></p>
 <p>After reading about <a href="http://googleblog.blogspot.com/2013/01/transparency-report-what-it-takes-for.html">Google&rsquo;s release of their transparency report last month</a>, I decided I would be <a href="http://apivoice.com/2013/01/23/making-transparency-reports-standard-operating-procedure/">addding API transparency reports to my list of essential building blocks</a> for API owners. Since I wrote that, I&rsquo;ve had a great post from EFF also <a href="https://www.eff.org/deeplinks/2013/01/its-time-transparency-reports-become-new-normal">stating that its time for transparency reports to become the new normal</a>. &nbsp;Where the EFF outlines the illness in our current approach:</p>

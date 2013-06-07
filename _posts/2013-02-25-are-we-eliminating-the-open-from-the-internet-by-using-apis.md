@@ -4,6 +4,7 @@ title: Are We Eliminating The Open From the Internet By Using APIs?
 url: http://kinlane.github.io/api-voice/2013/02/25/are-we-eliminating-the-open-from-the-internet-by-using-apis/
 source: http://kinlane.github.io/api-voice/2013/02/25/are-we-eliminating-the-open-from-the-internet-by-using-apis/
 domain: kinlane.github.io
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/sorry-we-are-closed.jpeg
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/sorry-we-are-closed.jpeg" alt="" width="250" align="right" /></p>
 <p>Don&rsquo;t get me wrong.  I love what I do.  I religiously advocate for the usage of APIs across ALL aspects of our business and personal lives, while also making default throughout government operations.  Most of the time I&rsquo;m confident that if done right, with proper communication and transparency all will be well.  But there are those moments where I ask myself, what the hell am i doing?  Fearing I may do more harm, than good.</p>

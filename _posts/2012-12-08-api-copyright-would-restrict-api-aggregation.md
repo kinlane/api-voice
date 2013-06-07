@@ -4,6 +4,7 @@ title: API Copyright Would Restrict API Aggregation
 url: http://kinlane.github.io/api-voice/2012/12/08/api-copyright-would-restrict-api-aggregation/
 source: http://kinlane.github.io/api-voice/2012/12/08/api-copyright-would-restrict-api-aggregation/
 domain: kinlane.github.io
+image: 
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/aggregate-api.jpg" alt="" width="250" align="right" /></p>
 <p>There are over <a href="http://www.programmableweb.com/apis/directory">8100 in the ProgrammableWeb API directory</a>.  We are at a point where aggregating common, popular APIs into single, standardized interfaces is emerging as the next evolution in web and mobile app development.</p>

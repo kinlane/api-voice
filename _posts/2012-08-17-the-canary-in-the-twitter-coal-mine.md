@@ -4,6 +4,7 @@ title: The Canary in the Twitter Coal Mine
 url: http://kinlane.github.io/api-voice/2012/08/17/the-canary-in-the-twitter-coal-mine/
 source: http://kinlane.github.io/api-voice/2012/08/17/the-canary-in-the-twitter-coal-mine/
 domain: kinlane.github.io
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/twitter-bird-yellow-on-white.png
 ---
 {% include JB/setup %}<p><p><img src="http://kinlane-productions.s3.amazonaws.com/twitter/twitter-bird-yellow-on-white.png" alt="" width="200" align="right" /></p>
 <p>I signed up for Twitter in May, 2007.  The Twitter API is what caught my attention all those years ago, but I saw the value of the entire network early on, and I was hooked. &nbsp;I was obsessed with the rising social networking platform and I started a company called <a title="Social Media Squad" href="http://web20squad.blogspot.com/">Social Media Squad</a>--which despite being bootstrapped and employing 20+ people in 2008, ended up being a victim of the economic downturn, and I shuttered the startup.</p>

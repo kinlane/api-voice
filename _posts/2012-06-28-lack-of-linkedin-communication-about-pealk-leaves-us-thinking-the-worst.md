@@ -4,6 +4,7 @@ title: Lack of LinkedIn Communication About Pealk Leaves Us Thinking the Worst
 url: http://kinlane.github.io/api-voice/2012/06/28/lack-of-linkedin-communication-about-pealk-leaves-us-thinking-the-worst/
 source: http://kinlane.github.io/api-voice/2012/06/28/lack-of-linkedin-communication-about-pealk-leaves-us-thinking-the-worst/
 domain: kinlane.github.io
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/linkedin-logo.png
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/linkedin/linkedin-logo.png" alt="" width="200" align="right" /></p>
 <p>I wanted to make sure I address all the recent API ecosystem battles, so after <a title="putting the changes to the Netflix API in perspective" href="http://apivoice.com/2012/06/28/putting-the-changes-to-the-netflix-public-api-in-perspective/">putting the changes to the Netflix API in perspective</a>, I wanted to talk about LinkedIn&rsquo;s decision to shut off headhunting app, Pealk&rsquo;s API access.</p>

@@ -4,6 +4,7 @@ title: Provide Release Valves for API Rate Limits
 url: http://kinlane.github.io/api-voice/2012/05/31/provide-release-valves-for-api-rate-limits/
 source: http://kinlane.github.io/api-voice/2012/05/31/provide-release-valves-for-api-rate-limits/
 domain: kinlane.github.io
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Google-APIs-Console-Rate-Limits.png
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/teapot-steaming.jpg" alt="" width="200" align="right" /></p>
 <p>In my effort to better understand API access, I&rsquo;m studying how API owners control access to their APIs, with most recently being around Rate Limiting.  The other day I asked, <a title="why do we limit API access for developers" href="/2012/05/29/why-do-we-limit-api-access-for-developers/">why do we limit API access for developers</a>, and even&nbsp;<a title="explored rewarding developers for heavy usage" href="http://blog.programmableweb.com/2011/06/01/should-we-be-limiting-developers-api-usage/">explored rewarding developers for heavy usage</a>.</p>

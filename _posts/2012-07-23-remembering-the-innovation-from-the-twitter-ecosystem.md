@@ -4,6 +4,7 @@ title: Remembering the Innovation from the Twitter Ecosystem
 url: http://kinlane.github.io/api-voice/2012/07/23/remember-the-innovation-from-the-twitter-ecosystem/
 source: http://kinlane.github.io/api-voice/2012/07/23/remember-the-innovation-from-the-twitter-ecosystem/
 domain: kinlane.github.io
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/tweetie.png
 ---
 {% include JB/setup %}<p><p><a title="Twitter" href="http://www.twitter.com/" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/twitter/twitter-bird-blue-on-white.png" alt="" width="150" align="right" /></a>Over the last two weeks I&rsquo;ve read a lot of negative comments about Twitter developers, centered around as Anil Dash puts it, &ldquo;<a href="http://dashes.com/anil/2012/07/why-your-complaint-about-twitter-is-wrong.html">a hippie utopian open protocol</a>&rdquo;.  That all developers want is something for free, and somehow we should get over ourselves and move on.</p>
 <p>Now that Twitter is moving closer to having total control over it&rsquo;s ecosystem, endpoints and the Twitter clients, let&rsquo;s stop and look at what the ecosystem has contributed:</p>

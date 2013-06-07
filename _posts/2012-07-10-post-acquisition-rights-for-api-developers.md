@@ -4,6 +4,7 @@ title: Post Acquisition Rights for API Developers
 url: http://kinlane.github.io/api-voice/2012/07/10/post-acquisition-rights-for-api-developers/
 source: http://kinlane.github.io/api-voice/2012/07/10/post-acquisition-rights-for-api-developers/
 domain: kinlane.github.io
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/face-com-logo.jpeg
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/face/face-com-logo.jpeg" alt="" width="200" align="right" /></p>
 <p>There was another shot fired in the <a title="API Trade Wars" href="http://www.apievangelist.com/2012/06/29/the-api-economy-welcomes-its-early-trade-wars/">API trade wars</a> this last week, this time through an acquisition by Facebook of facial recognition API Face.com.   And as usual there is great coverage at the NextWeb with, <a href="http://thenextweb.com/facebook/2012/07/07/that-was-quick-facebook-shuts-down-face-com-apis-kills-klik-app-enrages-developers/">That was quick Facebook shuts down Face.com APIs</a>, and at ProgrammableWeb with, <a title="Facebook API Euthanasia Continues: Keeping Face.com to Itself" href="http://blog.programmableweb.com/2012/07/07/facebook-api-euthanasia-continues-keeping-face-com-to-itself/">Facebook API Euthanasia Continues: Keeping Face.com to Itself</a>.</p>

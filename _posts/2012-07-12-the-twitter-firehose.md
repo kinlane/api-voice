@@ -4,6 +4,7 @@ title: The Twitter Firehose
 url: http://kinlane.github.io/api-voice/2012/07/12/the-twitter-firehose/
 source: http://kinlane.github.io/api-voice/2012/07/12/the-twitter-firehose/
 domain: kinlane.github.io
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/firehose-firefighter.jpeg
 ---
 {% include JB/setup %}<p><p><a title="Firehose by joevans1234, on Flickr" href="http://www.flickr.com/photos/joevans/4292116723/"><img src="http://farm3.staticflickr.com/2778/4292116723_768502f9f4.jpg" alt="Firehose" width="225" align="right" /></a></p>
 <p>&ldquo;Firehose&rdquo; is the name given to the massive, real-time stream of Tweets that flow from Twitter each day.  Twitter provides access to this &ldquo;firehose&rdquo;, using a streaming technology called XMPP, something that was <a href="http://blog.twitter.com/2010/03/enabling-rush-of-innovation.html">originally developed by John Kalucki for Technorati in 2007</a>, but after receiving requests from other companies, Twitter began making more arrangements for firehose access.</p>

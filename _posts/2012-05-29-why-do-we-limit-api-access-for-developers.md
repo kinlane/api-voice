@@ -4,6 +4,7 @@ title: Why Do We Limit API Access for Developers?
 url: http://kinlane.github.io/api-voice/2012/05/29/why-do-we-limit-api-access-for-developers/
 source: http://kinlane.github.io/api-voice/2012/05/29/why-do-we-limit-api-access-for-developers/
 domain: kinlane.github.io
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/API-Rate-Limiting.png
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/API-Rate-Limiting.png" alt="" width="300" align="right" /></p>
 <p>I am putting a lot of thought into why we limit API access for developers. &nbsp;I understand requiring keys to access APIs, and tracking who has access to your API, so you can understand how they are using it.  What I don&rsquo;t understand is why you&rsquo;d want to limit API access.</p>

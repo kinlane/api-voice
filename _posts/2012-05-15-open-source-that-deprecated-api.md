@@ -4,6 +4,7 @@ title: Open Source That Deprecated API
 url: http://kinlane.github.io/api-voice/2012/05/15/open-source-that-deprecated-api/
 source: http://kinlane.github.io/api-voice/2012/05/15/open-source-that-deprecated-api/
 domain: kinlane.github.io
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/open_source_2.jpg
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/open_source.jpg" alt="" width="250" align="right" /></p>
 <p>One topic that drives a lot of pageviews and discussions on a blog post, is sunsetting or deprecation of an API.  I&rsquo;ve written a lot about this with <a title="APIs Are Forever, Wait No...They Can Go Away at Any Time!!!" href="http://apievangelist.com/2012/04/20/apis-are-forever,-wait-no...they-can-go-away-at-any-time/">APIs Are Forever, Wait No...They Can Go Away at Any Time!!!</a> and <a title="Building Your Business Around Google or Any Other APIs" href="http://apievangelist.com/2011/05/28/building-your-business-around-google-or-any-other-apis/">Building Your Business Around Google or Any Other APIs</a>.</p>

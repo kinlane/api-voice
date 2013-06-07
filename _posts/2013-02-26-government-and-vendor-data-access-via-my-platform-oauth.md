@@ -4,6 +4,7 @@ title: Government and Vendor Data Access Via My Platform OAuth
 url: http://kinlane.github.io/api-voice/2013/02/26/government-and-vendor-data-access-via-my-platform-oauth/
 source: http://kinlane.github.io/api-voice/2013/02/26/government-and-vendor-data-access-via-my-platform-oauth/
 domain: kinlane.github.io
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/OAuth2.png
 ---
 {% include JB/setup %}<p><p><a href="http://oauth.net/" target="_blank"><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/oauth/OAuth2.png" alt="" width="150" align="right" /></a></p>
 <p>I&rsquo;m working through some thoughts from <a href="http://www.apistrategyconference.com/">API Strategy &amp; Practice</a>, around <a title="OAuth" href="http://en.wikipedia.org/wiki/OAuth">OAuth</a>.  I just wrote a post asking <a title="which of the three OAuth legs is most important" href="http://www.apievangelist.com/2013/02/26/which-of-the-three-oauth-legs-is-the-most-important/">which of the three OAuth legs is most important</a>?  As I work through these thoughts, I&rsquo;m also working through another post about platform transparency reports becoming default.</p>

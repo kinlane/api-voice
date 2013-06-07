@@ -4,6 +4,7 @@ title: The Executives Guide to Power and Retention In An API Driven World
 url: http://kinlane.github.io/api-voice/2013/02/28/the-executives-guide-to-power-and-retention-in-an-api-driven-world/
 source: http://kinlane.github.io/api-voice/2013/02/28/the-executives-guide-to-power-and-retention-in-an-api-driven-world/
 domain: kinlane.github.io
+image: 
 ---
 {% include JB/setup %}<p><p>The objective of this story is to provides Executives and  Venture Capitalists with a basic framework for putting social media to  work for the benefit of your company by establishing it as an industry  platform. If you are successful, you will maximize your market  capitalization and assert control over outspoken users and unruly  developers who may seek to cut into your profits.</p>
 <div id="contents" style="color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px;">

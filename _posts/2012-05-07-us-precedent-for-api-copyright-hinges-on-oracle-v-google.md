@@ -4,6 +4,7 @@ title: U.S. Precedent for API Copyright Hinges on Oracle v Google
 url: http://kinlane.github.io/api-voice/2012/05/07/us-precedent-for-api-copyright-hinges-on-oracle-v-google/
 source: http://kinlane.github.io/api-voice/2012/05/07/us-precedent-for-api-copyright-hinges-on-oracle-v-google/
 domain: kinlane.github.io
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/oraclevgoogle.png
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-voice/oraclevgoogle/oraclevgoogle.png" alt="" width="250" align="right" /></p>
 <p>I&rsquo;m closely following the <a title="Oracle v Google" href="http://www.wired.com/wiredenterprise/2012/05/judge-oracle-google/">Oracle v Google</a> case playing out in a court of law right now, and more specifically the Tweet stream of Wired writer, <a title="Caleb Garling" href="https://twitter.com/#!/calebgarling">Caleb Garling</a>.</p>

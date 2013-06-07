@@ -4,6 +4,7 @@ title: The API Economy
 url: http://kinlane.github.io/api-voice/2012/05/04/the-api-economy/
 source: http://kinlane.github.io/api-voice/2012/05/04/the-api-economy/
 domain: kinlane.github.io
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/stock-market-display.jpg
 ---
 {% include JB/setup %}<p><p><span>Those of us in the tech community who work with APIs talk a lot about the API economy.&nbsp;</span><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/financial/stock-market-display.jpg" alt="" width="250" align="right" /><span>This refers to how the Internet is changing all industries on a global scale, and how APIs are a driving force behind this.</span>&nbsp;</p>
 <p><span>Behind the scenes, APIs are an integral part of:</span></p>

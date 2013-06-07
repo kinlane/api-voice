@@ -4,6 +4,7 @@ title: Public API vs. Open API
 url: http://kinlane.github.io/api-voice/2012/05/30/public-api-vs-open-api/
 source: http://kinlane.github.io/api-voice/2012/05/30/public-api-vs-open-api/
 domain: kinlane.github.io
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/open.jpg
 ---
 {% include JB/setup %}<p><p>I see the term "open API" used a lot out there in the API space.   I feel there are truly very few actual open APIs, but the term has been co-opted by the media, many API owners as well as API service providers.</p>
 <p>The only two open APIs I can think of, off the top of my head are:</p>

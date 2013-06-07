@@ -4,6 +4,7 @@ title: Twitter API Integration Math: Streaming API
 url: http://kinlane.github.io/api-voice/2012/06/21/twitter-api-integration-math-streaming-api/
 source: http://kinlane.github.io/api-voice/2012/06/21/twitter-api-integration-math-streaming-api/
 domain: kinlane.github.io
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/streaming-matrix.jpg
 ---
 {% include JB/setup %}<p><p><img src="http://kinlane-productions.s3.amazonaws.com/twitter/twitter-bird-blue-on-white.png" alt="" width="200" align="right" /></p>
 <p>I&rsquo;m continuing my blog series on using the Twitter API for my new API ranking and monitoring platform.  To begin, I did the <a title="necessary to understand how I needed to use the Twitter API " href="http://apivoice.com/2012/06/05/doing-the-twitter-api-integration-math/">math necessary to understand how I needed to use the Twitter API</a> for my project.  Next, using the <a title="Twitter REST API" href="http://apivoice.com/2012/06/06/twitter-api-integration-math-rest-api/">Twitter REST API,</a> I tried to accomplish what I needed, quickly realizing the API rate limits would quickly prevent me from getting all the Tweets I needed.</p>

@@ -4,6 +4,7 @@ title: PeopleBrowsr Wins Temporary Injunction To Keep Twitter From Shutting Off 
 url: http://kinlane.github.io/api-voice/2012/11/28/peoplebrowsr-wins-temporary-injunction-to-keep-twitter-from-shutting-off-firehose-access/
 source: http://kinlane.github.io/api-voice/2012/11/28/peoplebrowsr-wins-temporary-injunction-to-keep-twitter-from-shutting-off-firehose-access/
 domain: kinlane.github.io
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/twitter-access.png
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/twitter/twitter-access.png" alt="" width="175" align="right" /></p>
 <p>Social analytics provider <a title="PeopleBrowsr" href="http://www.peoplebrowsr.com/">PeopleBrowsr</a> has won a temporary injunction against Twitter today, with a complaint filed in San Francisco Superior Court.  It reads:</p>

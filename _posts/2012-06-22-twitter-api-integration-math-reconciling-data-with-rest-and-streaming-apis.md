@@ -4,6 +4,7 @@ title: Twitter API Integration Math: Reconciling Data with REST and Streaming AP
 url: http://kinlane.github.io/api-voice/2012/06/22/twitter-api-integration-math-reconciling-data-with-rest-and-streaming-apis/
 source: http://kinlane.github.io/api-voice/2012/06/22/twitter-api-integration-math-reconciling-data-with-rest-and-streaming-apis/
 domain: kinlane.github.io
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/data-reconciliation.jpg
 ---
 {% include JB/setup %}<p><p><img src="http://kinlane-productions.s3.amazonaws.com/twitter/twitter-bird-blue-on-white.png" alt="" width="200" align="right" /></p>
 <p>I&rsquo;m continuing my blog series on using the Twitter API integration for my new API ranking and monitoring platform.  To begin, <a href="http://apivoice.com/2012/06/05/doing-the-twitter-api-integration-math/">I did the math necessary to understand how I needed to use the Twitter API</a> for my project.  Next, <a href="http://apivoice.com/2012/06/06/twitter-api-integration-math-rest-api/">using the Twitter REST API, I tried to accomplish what I needed</a>, quickly realizing the API rate limits would quickly prevent me from getting all the Tweets I needed.  After better understanding the REST API <a href="http://apivoice.com/2012/06/21/twitter-api-integration-math-streaming-api/">I dove into using the Twitter Streaming API</a>, which required some technical investment in both education, and setting up right server to handle the streaming connection and storing of Tweets.</p>

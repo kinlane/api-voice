@@ -4,6 +4,7 @@ title: C'mon Craiglist, Launch an API Already
 url: http://kinlane.github.io/api-voice/2012/06/28/cmon-craiglist-launch-an-api-already/
 source: http://kinlane.github.io/api-voice/2012/06/28/cmon-craiglist-launch-an-api-already/
 domain: kinlane.github.io
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/craigslist.png
 ---
 {% include JB/setup %}<p><p><img src="http://kinlane-productions.s3.amazonaws.com/craigslist.png" alt="" align="right" /></p>
 <p>After <a title="putting the changes to the Netflix Public API in perspective" href="http://apivoice.com/2012/06/28/putting-the-changes-to-the-netflix-public-api-in-perspective/">putting the changes to the Netflix Public API in perspective</a> and noting that the <a title="lack of LinkedIn communication about Pealk leaving us thinking the worst" href="http://apivoice.com/2012/06/28/lack-of-linkedin-communication-about-pealk-leaves-us-thinking-the-worst/">lack of LinkedIn communication about Pealk leaving us thinking the worst</a>, I wanted to talk about the recent decision by <a title="Craiglists to send a cease and desist letter to the apartment renting site Padmapper" href="http://blog.padmapper.com/2012/06/22/bye-bye-craigslist/">Craiglists to send a cease and desist letter to the apartment renting site Padmapper</a>.</p>

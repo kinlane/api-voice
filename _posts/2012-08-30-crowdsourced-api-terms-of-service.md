@@ -4,6 +4,7 @@ title: Crowdsourced API Terms of Service
 url: http://kinlane.github.io/api-voice/2012/08/30/crowdsourced-api-terms-of-service/
 source: http://kinlane.github.io/api-voice/2012/08/30/crowdsourced-api-terms-of-service/
 domain: kinlane.github.io
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/developer-rights.jpeg
 ---
 {% include JB/setup %}<p><p><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/terms-of-service/developer-rights.jpeg" alt="" width="150" align="right" /></p>
 <p>API terms of service (TOS) is one of the most critical, yet one of the most silent links for developers who are building apps and business on top of APIs.  Terms of service determine what you can or cannot do with an API, and often times developers do not understand these terms, leaving them vulnerable to some very negative outcomes.</p>

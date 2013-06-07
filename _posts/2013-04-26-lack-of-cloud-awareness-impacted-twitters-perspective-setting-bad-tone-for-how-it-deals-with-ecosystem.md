@@ -4,6 +4,7 @@ title: Lack of Cloud Awareness Impacted Twitters Perspective, Setting Bad Tone f
 url: http://kinlane.github.io/api-voice/2013/04/26/lack-of-cloud-awareness-impacted-twitters-perspective-setting-bad-tone-for-ecosystem/
 source: http://kinlane.github.io/api-voice/2013/04/26/lack-of-cloud-awareness-impacted-twitters-perspective-setting-bad-tone-for-ecosystem/
 domain: kinlane.github.io
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/black-cloud.jpg
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/black-cloud.jpg" alt="" width="250" align="right" /></p>
 <p>I just listened <a title="The Clouds" href="https://soundcloud.com/bwalker/cloud1">The Clouds</a>, by Benjamen Walker on <a title="SoundCloud" href="http://soundcloud.com">SoundCloud</a>. In this episode a Twitter employee named Britt Selvitelle talks about what happened when Justin Bieber joined Twitter in 2009 and how everything had changed by the time the Bieber joined Instagram in 2011.</p>

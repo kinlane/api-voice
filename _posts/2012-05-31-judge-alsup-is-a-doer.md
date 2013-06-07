@@ -4,6 +4,7 @@ title: Judge Alsup is a Do-er
 url: http://kinlane.github.io/api-voice/2012/05/31/judge-alsup-is-a-do-er/
 source: http://kinlane.github.io/api-voice/2012/05/31/judge-alsup-is-a-do-er/
 domain: kinlane.github.io
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Judge-William-Alsup.jpg
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/Judge-William-Alsup.jpg" alt="" width="200" align="right" /></p>
 <p>In the API space we&rsquo;ve all been following the <a href="http://www.wired.com/wiredenterprise/2012/05/google-schmidt-page-damages/">Oracle vs. Google trial</a>.  If you want the real info, go checkout <a href="http://www.wired.com/wiredenterprise/author/caleb_garling/">Caleb Garling&rsquo;s coverage of the trial</a>, he&rsquo;s the blogger who deserves the linkage.</p>

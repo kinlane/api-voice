@@ -4,6 +4,7 @@ title: Putting the Changes to the Netflix Public API in Perspective
 url: http://kinlane.github.io/api-voice/2012/06/28/putting-the-changes-to-the-netflix-public-api-in-perspective/
 source: http://kinlane.github.io/api-voice/2012/06/28/putting-the-changes-to-the-netflix-public-api-in-perspective/
 domain: kinlane.github.io
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/netflix_logo.gif
 ---
 {% include JB/setup %}<p><p><a title="Netflix API" href="http://www.netflix.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/netflix_logo.gif" alt="" width="250" align="right" /></a></p>
 <p>While traveling over the last couple weeks, I put more thought into the <a title="Netflix recently made some announcements about upcoming API and terms of service changes" href="http://developer.netflix.com/blog/read/Upcoming_Changes_to_the_Netflix_API_Program">upcoming changes to the Netflix API</a>.  As I pointed out in my earlier post, I understand the <a title="tension between API owners and API consumers" href="http://www.apievangelist.com/2012/06/24/tension-between-api-owners-and-consumers/">tension between API owners and API consumers</a>, so in my analysis I want to consider the big picture before I blogged about it.</p>
