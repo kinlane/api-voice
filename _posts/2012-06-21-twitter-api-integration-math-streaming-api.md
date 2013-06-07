@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Twitter API Integration Math: Streaming API
-url: http://apivoice.com/2012/06/21/twitter-api-integration-math-streaming-api/
-source: http://apivoice.com/2012/06/21/twitter-api-integration-math-streaming-api/
-domain: apivoice.com
+url: http://kinlane.github.io/api-voice/2012/06/21/twitter-api-integration-math-streaming-api/
+source: http://kinlane.github.io/api-voice/2012/06/21/twitter-api-integration-math-streaming-api/
+domain: kinlane.github.io
 ---
 {% include JB/setup %}<p><p><img src="http://kinlane-productions.s3.amazonaws.com/twitter/twitter-bird-blue-on-white.png" alt="" width="200" align="right" /></p>
 <p>I&rsquo;m continuing my blog series on using the Twitter API for my new API ranking and monitoring platform.  To begin, I did the <a title="necessary to understand how I needed to use the Twitter API " href="http://apivoice.com/2012/06/05/doing-the-twitter-api-integration-math/">math necessary to understand how I needed to use the Twitter API</a> for my project.  Next, using the <a title="Twitter REST API" href="http://apivoice.com/2012/06/06/twitter-api-integration-math-rest-api/">Twitter REST API,</a> I tried to accomplish what I needed, quickly realizing the API rate limits would quickly prevent me from getting all the Tweets I needed.</p>
@@ -24,5 +24,5 @@ domain: apivoice.com
 <p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/streaming-matrix.jpg" alt="" width="250" align="right" /></p>
 <p>The Twitter Streaming API appears to give me what I need to pull in the Tweets necessary for my API ranking and monitoring, I still need to figure out if scaling the volume actually goes beyond the 1% volume limitation imposed by Twitter on the streaming API.  Its really hard to tell.  While the Twitter Streaming API is great for pulling these Tweets in real-time, it can only be applied for the "<span style="text-decoration: underline;">real-time now</span>", not the past.  Once a moment passes and if I didn&rsquo;t capture a Tweet either because it wasn&rsquo;t defined in my filters or because the connection dropped, I have to use the Twitter REST API to retrieve it--putting me back in square one with the limitations of the REST API.</p>
 <p>In my next post I will talk about how I have to reconcile between the Twitter Streaming and REST APIs to make sure I got all the Tweets I need, then I will explore the other options provided to me by Twitter reseller partners Gnip and Datasift, then I will summarize what I&rsquo;ve learned throughout this process.</p></p>
-<center><p><a href="http://apivoice.com/2012/06/21/twitter-api-integration-math-streaming-api/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+<center><p><a href="http://kinlane.github.io/api-voice/2012/06/21/twitter-api-integration-math-streaming-api/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

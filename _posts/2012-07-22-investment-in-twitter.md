@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Investment in Twitter
-url: http://apivoice.com/2012/07/22/investment-in-twitter/
-source: http://apivoice.com/2012/07/22/investment-in-twitter/
-domain: apivoice.com
+url: http://kinlane.github.io/api-voice/2012/07/22/investment-in-twitter/
+source: http://kinlane.github.io/api-voice/2012/07/22/investment-in-twitter/
+domain: kinlane.github.io
 ---
 {% include JB/setup %}<p><p><a title="Twitter" href="http://www.twitter.com/" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/twitter/twitter-bird-blue-on-white.png" alt="" width="150" align="right" /></a></p>
 <p class="p1">I wanted to have a better grasp of approximately how much money Twitter has raised to date, and who these investors are. &nbsp;This investment has allowed Twitter to grow, and these investors significantly influence Twitter, when it comes to monetization and the fate of the developer ecosystem.</p>
@@ -340,5 +340,5 @@ domain: apivoice.com
 <p>The low end of investment in Twitter is $1B and the high end probably looks like $1.5B, with 22 separate individuals and companies. &nbsp;With Union Square Ventures and Spark Capital investing 3 times each, and&nbsp;Benchmark Capital,&nbsp;Charles River Ventures,&nbsp;Digital Garage and&nbsp;Institutional Venture Partners investing 2 times a piece. &nbsp;Most recent investments involve record breaking amounts, at a staggering $8B+ valuation with a Russian tycoon and Saudi Prince.</p>
 <p>I'm sure there are more investors and investments. &nbsp;If I missed anything let me know. &nbsp;</p>
 <p>When you look at Twitter from this perspective, its easier to imagine the pressure Twitter must be under to deliver something for investors. &nbsp;</p></p>
-<center><p><a href="http://apivoice.com/2012/07/22/investment-in-twitter/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+<center><p><a href="http://kinlane.github.io/api-voice/2012/07/22/investment-in-twitter/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

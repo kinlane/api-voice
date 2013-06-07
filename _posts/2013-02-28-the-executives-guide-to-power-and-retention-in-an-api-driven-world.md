@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The Executives Guide to Power and Retention In An API Driven World
-url: http://apivoice.com/2013/02/28/the-executives-guide-to-power-and-retention-in-an-api-driven-world/
-source: http://apivoice.com/2013/02/28/the-executives-guide-to-power-and-retention-in-an-api-driven-world/
-domain: apivoice.com
+url: http://kinlane.github.io/api-voice/2013/02/28/the-executives-guide-to-power-and-retention-in-an-api-driven-world/
+source: http://kinlane.github.io/api-voice/2013/02/28/the-executives-guide-to-power-and-retention-in-an-api-driven-world/
+domain: kinlane.github.io
 ---
 {% include JB/setup %}<p><p>The objective of this story is to provides Executives and  Venture Capitalists with a basic framework for putting social media to  work for the benefit of your company by establishing it as an industry  platform. If you are successful, you will maximize your market  capitalization and assert control over outspoken users and unruly  developers who may seek to cut into your profits.</p>
 <div id="contents" style="color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; orphans: auto; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: auto; word-spacing: 0px;">
@@ -85,5 +85,5 @@ domain: apivoice.com
 <p style="font-weight: normal;">Users are fairly easy to manage, but developers can be an unruly bunch. Sometimes you have tonbsp;<a class="c3" href="http://www.google.com/url?q=https%3A%2F%2Fdev.twitter.com%2Fterms%2Fapi-terms&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNESESM6Bb83kZQFTiwOnT1FvgsLdQ">lay down the rules of the roa</a><a class="c3" href="https://dev.twitter.com/terms/api-terms">d</a>, while other times you will need to soothe developers that they are anbsp;<a class="c3" href="https://dev.twitter.com/blog/note-jack-twitter-developers">fundamental part of your platform</a><a class="c3" href="http://www.google.com/url?q=https%3A%2F%2Fdev.twitter.com%2Fblog%2Fnote-jack-twitter-developers&amp;sa=D&amp;sntz=1&amp;usg=AFQjCNEHcDdj7qztxQobsvtt8bmM6XUQng">&rsquo;s</a><a class="c3" href="https://dev.twitter.com/blog/note-jack-twitter-developers">nbsp;DNA.</a></p>
 <p style="font-weight: normal;">You will have to try out different methods for  balancing the right amount of openness vs. oppression within your own  community. It is common fornbsp;<a class="c3" href="http://gigaom.com/2012/09/03/why-i-have-a-love-hate-relationship-with-twitter/">developers to have a love-hate relationship with their API</a></p>
 </div></p>
-<center><p><a href="http://apivoice.com/2013/02/28/the-executives-guide-to-power-and-retention-in-an-api-driven-world/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+<center><p><a href="http://kinlane.github.io/api-voice/2013/02/28/the-executives-guide-to-power-and-retention-in-an-api-driven-world/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

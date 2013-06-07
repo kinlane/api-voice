@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Doing the Twitter API Integration Math
-url: http://apivoice.com/2012/06/05/doing-the-twitter-api-integration-math/
-source: http://apivoice.com/2012/06/05/doing-the-twitter-api-integration-math/
-domain: apivoice.com
+url: http://kinlane.github.io/api-voice/2012/06/05/doing-the-twitter-api-integration-math/
+source: http://kinlane.github.io/api-voice/2012/06/05/doing-the-twitter-api-integration-math/
+domain: kinlane.github.io
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/twitter/twitter-full-logo-black.png" alt="" align="right" /></p>
 <p>I&rsquo;m expanding the <a title="API Evangelist" href="http://www.apievangelist.com">API Evangelist</a> network.  I&rsquo;ve recently taken down the API area of API Evangelist, and launching under the brand API stack. &nbsp;Then I&rsquo;m formalizing some aspects of my API industry monitoring in two areas:</p>
@@ -40,5 +40,5 @@ domain: apivoice.com
 <p><a title="Datasift" href="http://datasift.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/datasift/datasift-logo.png" alt="" width="200" align="right" /></a></p>
 <p>Since I really want to be able to display Tweets, I will be starting with the Twitter API.  But I will also figure out scope and costs for Gnip and Datasift simultaneously.  But this process has really taken the joy out of my project.  I would much rather be hacking a way, building my monitoring and ranking system, then either via my own dashboard or something Twitter should be providing, understand my API consumption. Then I&rsquo;d be very happy to pay for that usage to save me the headache and time I&rsquo;m going through. &nbsp;Ok, back to reality. &nbsp;</p>
 <p>Now that I&rsquo;ve done my basic Twitter API integration math, now for a little more work on hacking together the solution to pull from Twitter public API, crank it up to high gear and see where I start hitting the API rate limits--and since there is no <a href="/admin/blog/relief valve from Twitter for API rate limiting">relief valve from Twitter for API rate limiting</a>, I will have to create my own relief valve or make other decisions, like having to use Gnip or Datasift.</p></p>
-<center><p><a href="http://apivoice.com/2012/06/05/doing-the-twitter-api-integration-math/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+<center><p><a href="http://kinlane.github.io/api-voice/2012/06/05/doing-the-twitter-api-integration-math/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

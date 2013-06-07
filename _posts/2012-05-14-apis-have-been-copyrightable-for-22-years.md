@@ -1,9 +1,9 @@
 ---
 layout: post
 title: APIs Have Been Copyrightable for 22 Years
-url: http://apivoice.com/2012/05/14/apis-have-been-copyrightable-for-22-years/
-source: http://apivoice.com/2012/05/14/apis-have-been-copyrightable-for-22-years/
-domain: apivoice.com
+url: http://kinlane.github.io/api-voice/2012/05/14/apis-have-been-copyrightable-for-22-years/
+source: http://kinlane.github.io/api-voice/2012/05/14/apis-have-been-copyrightable-for-22-years/
+domain: kinlane.github.io
 ---
 {% include JB/setup %}<p><p><img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/api-legal.jpg" alt="" width="250" align="right" /></p>
 <p>I attended a great webinar put on by the folks at <a title="Apigee" href="/serviceproviders/apigee.php">Apigee</a> last week, where they discussed <a title="APIs &amp; Copyright" href="http://www.slideshare.net/apigee/apis-copyrights">APIs &amp; Copyright</a>.  A very timely discussion with the recent API copyright decision in the EU, and from the ongoing <a title="Oracle vs. Google" href="http://apivoice.com/2012/05/07/us-precedent-for-api-copyright-hinges-on-oracle-v-google/">Oracle vs. Google case</a>.</p>
@@ -12,5 +12,5 @@ domain: apivoice.com
 <p>Beyond Johnson Controls, Inc v. Phoenix Control Systems, it appears there is further precedent to apply copyright to APIs.  The filing also references:</p>
 <blockquote><em>See Harper &amp; Row Publishers, Inc. v. Nation Enters.,<a href="http://www.leagle.com/xmlcontentlinks.aspx?gfile=471%20U.S.%20539">471 U.S. 539</a>, 547, 105 S.Ct. 2218, 2223, 85 L.Ed.2d 588 (1985); Data East USA, Inc. v. Epyx, Inc.,<a href="http://www.leagle.com/xmlcontentlinks.aspx?gfile=862%20F.2d%20204">862 F.2d 204</a>, 207-08 (9th Cir.1988); 17 U.S.C. &sect; 102(b).</em></blockquote>
 <p>I think the questions API owners and developers should be asking themselves is not, whether or not they might have to think about API copyright protection in the future, but that it is something they should be discussing now, when it comes to their other legal API&nbsp;building blocks like <a title="terms of use" href="http://www.apievangelist.com/buildingblocks/terms_of_use__conditions.php">terms of use</a>, <a title="privacy" href="http://www.apievangelist.com/buildingblocks/privacy.php">privacy</a> and <a title="branding" href="http://www.apievangelist.com/buildingblocks/branding.php">branding</a>.</p></p>
-<center><p><a href="http://apivoice.com/2012/05/14/apis-have-been-copyrightable-for-22-years/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+<center><p><a href="http://kinlane.github.io/api-voice/2012/05/14/apis-have-been-copyrightable-for-22-years/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

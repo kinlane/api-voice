@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The Canary in the Twitter Coal Mine
-url: http://apivoice.com/2012/08/17/the-canary-in-the-twitter-coal-mine/
-source: http://apivoice.com/2012/08/17/the-canary-in-the-twitter-coal-mine/
-domain: apivoice.com
+url: http://kinlane.github.io/api-voice/2012/08/17/the-canary-in-the-twitter-coal-mine/
+source: http://kinlane.github.io/api-voice/2012/08/17/the-canary-in-the-twitter-coal-mine/
+domain: kinlane.github.io
 ---
 {% include JB/setup %}<p><p><img src="http://kinlane-productions.s3.amazonaws.com/twitter/twitter-bird-yellow-on-white.png" alt="" width="200" align="right" /></p>
 <p>I signed up for Twitter in May, 2007.  The Twitter API is what caught my attention all those years ago, but I saw the value of the entire network early on, and I was hooked. &nbsp;I was obsessed with the rising social networking platform and I started a company called <a title="Social Media Squad" href="http://web20squad.blogspot.com/">Social Media Squad</a>--which despite being bootstrapped and employing 20+ people in 2008, ended up being a victim of the economic downturn, and I shuttered the startup.</p>
@@ -16,5 +16,5 @@ domain: apivoice.com
 <script src="http://platform.twitter.com/widgets.js"></script>
 <p>The Twitter ecosystem is not just made up of developers, it&rsquo;s real impact comes from the power users--developers are the base, but social media and journalism are the voice of Twitter.  We are seeing the <a href="/admin/blog/recent moves by Twitter go beyond just the developer community, and affecting the power users">recent moves by Twitter go beyond just the developer community, and affecting these power users</a>.</p>
 <p>I&rsquo;ve voiced strong support for Twitter as a platform, with equal opposition to their <a href="/2012/06/29/twitter-continues-to-restrict-access-to-our-tweets/">increasingly hostile stance towards the ecosystem</a> over the last two years.  It&rsquo;s not too late Twitter, but it soon will be, if you guys don&rsquo;t take some corrective action and work to mend fences--not just with developers but with the end users that matter the most, the social media mavens and most savvy journalists who are the voice of the Twitter platform.</p></p>
-<center><p><a href="http://apivoice.com/2012/08/17/the-canary-in-the-twitter-coal-mine/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+<center><p><a href="http://kinlane.github.io/api-voice/2012/08/17/the-canary-in-the-twitter-coal-mine/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

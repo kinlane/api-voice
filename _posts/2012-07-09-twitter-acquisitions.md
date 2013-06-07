@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Twitter Acquisitions
-url: http://apivoice.com/2012/07/09/twitter-acquisitions/
-source: http://apivoice.com/2012/07/09/twitter-acquisitions/
-domain: apivoice.com
+url: http://kinlane.github.io/api-voice/2012/07/09/twitter-acquisitions/
+source: http://kinlane.github.io/api-voice/2012/07/09/twitter-acquisitions/
+domain: kinlane.github.io
 ---
 {% include JB/setup %}<p><p><a title="Twitter" href="http://www.twitter.com/" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/twitter/twitter-bird-blue-on-white.png" alt="" width="150" align="right" /></a></p>
 <p>Acquisition of technology startups by companies is a regular part of business today, providing a way for these companies to get the technology, talent, as well as user and market share they need to be successful. These acquisitions play an important part of API ecosystems, with API owners hoping developers build the next killer feature that users will love, something they can invest in, and developers dream API owners will notice their work and purchase their &ldquo;startup&rdquo;.</p>
@@ -170,5 +170,5 @@ domain: apivoice.com
 </table>
 <p>Twitter&rsquo;s acquisitions are diverse and appear to be very strategic. Twitter has wisely invested in search, security, messaging and data storage, while also taking control over mobile and desktop clients. &nbsp;Twitter has made some smart acquisitions out of the ecosystem, and you have to wonder why acquisitions of companies like Tweetie and TweeDeck caused such a backlash, while acquisitions like Backtype, Julpan and Dasient you don&rsquo;t hear much of anything from the ecosystem.</p>
 <p>I would like to understand other players in the Twitter ecosystem like the firehose partners and investors more, before I draw too many conclusions from the acquisitions Twitter has made. &nbsp;Twitter has already made 6 acuisitions this year, the same amount as Twitter acquired in 2011, and we are only halfway through the year. &nbsp;It makes you&nbsp;<a href="http://techcrunch.com/2012/07/03/rumor-twitter-to-acquire-sense-networks-to-target-twitter-ads-locally/">wonder who Twitter's next acquisition will be</a>.</p></p>
-<center><p><a href="http://apivoice.com/2012/07/09/twitter-acquisitions/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+<center><p><a href="http://kinlane.github.io/api-voice/2012/07/09/twitter-acquisitions/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

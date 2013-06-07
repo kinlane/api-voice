@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Crowdsourced API Terms of Service
-url: http://apivoice.com/2012/08/30/crowdsourced-api-terms-of-service/
-source: http://apivoice.com/2012/08/30/crowdsourced-api-terms-of-service/
-domain: apivoice.com
+url: http://kinlane.github.io/api-voice/2012/08/30/crowdsourced-api-terms-of-service/
+source: http://kinlane.github.io/api-voice/2012/08/30/crowdsourced-api-terms-of-service/
+domain: kinlane.github.io
 ---
 {% include JB/setup %}<p><p><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/terms-of-service/developer-rights.jpeg" alt="" width="150" align="right" /></p>
 <p>API terms of service (TOS) is one of the most critical, yet one of the most silent links for developers who are building apps and business on top of APIs.  Terms of service determine what you can or cannot do with an API, and often times developers do not understand these terms, leaving them vulnerable to some very negative outcomes.</p>
@@ -23,5 +23,5 @@ domain: apivoice.com
 <p>API Terms of Service Didn't Read, also known as API-ToS;DR, is a crowd-sourced effort and requires community involvement to be successful.  To get involved you can visit the <a href="http://api-tos-dr.info/">API-ToS;DR website</a>, join the <a href="https://groups.google.com/forum/#!forum/api-tosdr">working Google Group</a> or help by <a href="https://github.com/tiborvass/ToS-DR">pushing code in the Github repository</a>.</p>
 <p>As APIs grow in popularity this problem is only going to get worse.  Terms of service is something I see several groups working to actively understand such as <a title="Singly" href="http://www.singly.com">Singly</a> with their personal data <a title="terminator project" href="https://github.com/quartzjer/Singly/tree/master/Terminator">terminator project</a>, and EFF with their <a title="TOSBack Project" href="http://www.tosback.org/timeline.php">TOSBack project</a>.</p>
 <p>Over the coming months I&rsquo;d like to help focus all this energy into <a title="API Terms of Service Didn't Read" href="https://dl.dropbox.com/u/84544713/apitos/index.html">API Terms of Service Didn't Read</a>, providing a plain english rating system that all developers can use when navigating the often treacherous landscape of API development.</p></p>
-<center><p><a href="http://apivoice.com/2012/08/30/crowdsourced-api-terms-of-service/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+<center><p><a href="http://kinlane.github.io/api-voice/2012/08/30/crowdsourced-api-terms-of-service/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

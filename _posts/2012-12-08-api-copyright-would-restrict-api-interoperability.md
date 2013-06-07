@@ -1,9 +1,9 @@
 ---
 layout: post
 title: API Copyright Would Restrict API Interoperability
-url: http://apivoice.com/2012/12/08/api-copyright-would-restrict-api-interoperability/
-source: http://apivoice.com/2012/12/08/api-copyright-would-restrict-api-interoperability/
-domain: apivoice.com
+url: http://kinlane.github.io/api-voice/2012/12/08/api-copyright-would-restrict-api-interoperability/
+source: http://kinlane.github.io/api-voice/2012/12/08/api-copyright-would-restrict-api-interoperability/
+domain: kinlane.github.io
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-interoperability.jpg" alt="" width="250" align="right" /></p>
 <p>Large portions of our personal business worlds are moving online.  Banking, insurance, taxes, health care, education--pick an industry and they are increasingly operating via the World Wide Web.</p>
@@ -25,5 +25,5 @@ domain: apivoice.com
 <li><a href="http://blog.programmableweb.com/2011/05/02/unified-apis-or-api-standards-the-race-is-on/">Unified APIs or API Standards, The Race is On</a> - Kin Lane</li>
 <li><a href="http://gigaom.com/cloud/the-great-challenge-and-opportunity-of-cloud-interoperability/">The great challenge&mdash;and opportunity&mdash;of cloud: interoperability</a> - James Urquhart</li>
 </ul></p>
-<center><p><a href="http://apivoice.com/2012/12/08/api-copyright-would-restrict-api-interoperability/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+<center><p><a href="http://kinlane.github.io/api-voice/2012/12/08/api-copyright-would-restrict-api-interoperability/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

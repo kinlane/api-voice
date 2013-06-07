@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Twitter API Integration Math: Reconciling Data with REST and Streaming APIs
-url: http://apivoice.com/2012/06/22/twitter-api-integration-math-reconciling-data-with-rest-and-streaming-apis/
-source: http://apivoice.com/2012/06/22/twitter-api-integration-math-reconciling-data-with-rest-and-streaming-apis/
-domain: apivoice.com
+url: http://kinlane.github.io/api-voice/2012/06/22/twitter-api-integration-math-reconciling-data-with-rest-and-streaming-apis/
+source: http://kinlane.github.io/api-voice/2012/06/22/twitter-api-integration-math-reconciling-data-with-rest-and-streaming-apis/
+domain: kinlane.github.io
 ---
 {% include JB/setup %}<p><p><img src="http://kinlane-productions.s3.amazonaws.com/twitter/twitter-bird-blue-on-white.png" alt="" width="200" align="right" /></p>
 <p>I&rsquo;m continuing my blog series on using the Twitter API integration for my new API ranking and monitoring platform.  To begin, <a href="http://apivoice.com/2012/06/05/doing-the-twitter-api-integration-math/">I did the math necessary to understand how I needed to use the Twitter API</a> for my project.  Next, <a href="http://apivoice.com/2012/06/06/twitter-api-integration-math-rest-api/">using the Twitter REST API, I tried to accomplish what I needed</a>, quickly realizing the API rate limits would quickly prevent me from getting all the Tweets I needed.  After better understanding the REST API <a href="http://apivoice.com/2012/06/21/twitter-api-integration-math-streaming-api/">I dove into using the Twitter Streaming API</a>, which required some technical investment in both education, and setting up right server to handle the streaming connection and storing of Tweets.</p>
@@ -28,5 +28,5 @@ domain: apivoice.com
 <p>But there really is a third area I will have to reconcile on, and that is completeness of data.  I&rsquo;m not just doing sentiment analysis here, I actually need every Tweet or I might miss a feature release from an API company, and I use the volume of Tweets as a metric of success for an API company in my algorithm.  Twitter has a concept of limiting either by percentage or by count to minimize the load on the system.  I need to make sure I&rsquo;m getting everything, so I will be double checking what is pulled from Streaming via the REST API.  How else am I supposed to know if I&rsquo;ve gone over the 1% available to me via the Twitter Streaming API?</p>
 <p>Overall this is a lot of work.  To do the math, to understand my approach, figure out the REST integration, the Streaming API and then the reconciliation between the two.  Its a lot work, but its doable--as long as I&rsquo;m really getting all the data...which is something I don&rsquo;t ever fully know and honestly I don&rsquo;t feel like Twitter is investing in me ever knowing.</p>
 <p>With the process I&rsquo;ve laid out I should be able to get what I need, except for the historical piece, and honestly I won&rsquo;t be able to do with one account and one server, which is something I&rsquo;ll write about separately.  To complete this picture I will also need to use Twitter resellers Gnip and Datasift, which is what I&rsquo;ll write about next in this series.</p></p>
-<center><p><a href="http://apivoice.com/2012/06/22/twitter-api-integration-math-reconciling-data-with-rest-and-streaming-apis/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+<center><p><a href="http://kinlane.github.io/api-voice/2012/06/22/twitter-api-integration-math-reconciling-data-with-rest-and-streaming-apis/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

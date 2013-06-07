@@ -1,9 +1,9 @@
 ---
 layout: post
 title: PeopleBrowsr Wins Temporary Injunction To Keep Twitter From Shutting Off Firehose Access
-url: http://apivoice.com/2012/11/28/peoplebrowsr-wins-temporary-injunction-to-keep-twitter-from-shutting-off-firehose-access/
-source: http://apivoice.com/2012/11/28/peoplebrowsr-wins-temporary-injunction-to-keep-twitter-from-shutting-off-firehose-access/
-domain: apivoice.com
+url: http://kinlane.github.io/api-voice/2012/11/28/peoplebrowsr-wins-temporary-injunction-to-keep-twitter-from-shutting-off-firehose-access/
+source: http://kinlane.github.io/api-voice/2012/11/28/peoplebrowsr-wins-temporary-injunction-to-keep-twitter-from-shutting-off-firehose-access/
+domain: kinlane.github.io
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/twitter/twitter-access.png" alt="" width="175" align="right" /></p>
 <p>Social analytics provider <a title="PeopleBrowsr" href="http://www.peoplebrowsr.com/">PeopleBrowsr</a> has won a temporary injunction against Twitter today, with a complaint filed in San Francisco Superior Court.  It reads:</p>
@@ -16,5 +16,5 @@ domain: apivoice.com
 <p><a href="http://twitter.apivoice.com/">Twitter has consistently described</a> the Firehose as a part of this open ecosystem that it would make available to &ldquo;everyone in the system&rdquo;, and this open approach was a key component of Twitter&rsquo;s business strategy.&nbsp;</p>
 <p>The injunction PeopleBrowsr received today will keep their firehose access open until January, when further hearings on the case will be held.  Until now, all the outcy regarding Twitter&rsquo;s restriction of access to the platform have been vocal, but without any legal action. The filing by PeopleBrowsr shows the situation has truly become serious and will move discussion about Twitter access from the tech blogosphere and hacker news into the U.S legal system.</p>
 <p><em>Disclosure:  API Evangelist has provided API strategy services to PeopleBrowsr.</em></p></p>
-<center><p><a href="http://apivoice.com/2012/11/28/peoplebrowsr-wins-temporary-injunction-to-keep-twitter-from-shutting-off-firehose-access/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+<center><p><a href="http://kinlane.github.io/api-voice/2012/11/28/peoplebrowsr-wins-temporary-injunction-to-keep-twitter-from-shutting-off-firehose-access/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

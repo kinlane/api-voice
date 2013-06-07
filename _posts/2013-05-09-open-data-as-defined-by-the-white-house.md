@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Open Data as Defined By the White House
-url: http://apivoice.com/2013/05/09/open-data-as-defined-by-the-white-house/
-source: http://apivoice.com/2013/05/09/open-data-as-defined-by-the-white-house/
-domain: apivoice.com
+url: http://kinlane.github.io/api-voice/2013/05/09/open-data-as-defined-by-the-white-house/
+source: http://kinlane.github.io/api-voice/2013/05/09/open-data-as-defined-by-the-white-house/
+domain: kinlane.github.io
 ---
 {% include JB/setup %}<p><p><a href="http://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf" target="_blank"><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/federal-strategy/executive-order-open-data.png" alt="" width="325" align="right" /></a></p>
 <p class="p1">I'm processing my thoughts around the White House&nbsp;<span>Executive Order, and the&nbsp;</span><a href="http://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf">Open Data Policy</a><span>&nbsp;released today by the Office of Science and Technology Policy and the Office of Management and Budget. &nbsp;I'm still trying to understand the impact of this order, but as I'm doing this I thought the definition of "what is open data"is worth sharing as a stand alone post.</span></p>
@@ -18,5 +18,5 @@ domain: apivoice.com
 <li><strong>Managed Post-Release </strong>- A point of contact must be designated to assist with data use and to respond&nbsp;to complaints about adherence to these open data requirements.</li>
 </ul>
 <p>I think these are some pretty solid bullet points for defining open data, whether you are a government agency, enterprise corporation or small startup. There are some pretty basic concepts at play here. &nbsp;But concepts that can have HUGE impact in how we operate as a society and a global marketplace. &nbsp;</p></p>
-<center><p><a href="http://apivoice.com/2013/05/09/open-data-as-defined-by-the-white-house/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+<center><p><a href="http://kinlane.github.io/api-voice/2013/05/09/open-data-as-defined-by-the-white-house/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

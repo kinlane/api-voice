@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The Business and Politics of Twitter's API
-url: http://apivoice.com/2012/05/06/the-business-and-politics-of-twitters-api/
-source: http://apivoice.com/2012/05/06/the-business-and-politics-of-twitters-api/
-domain: apivoice.com
+url: http://kinlane.github.io/api-voice/2012/05/06/the-business-and-politics-of-twitters-api/
+source: http://kinlane.github.io/api-voice/2012/05/06/the-business-and-politics-of-twitters-api/
+domain: kinlane.github.io
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-voice/Tag-Cloud-Deep-Research-Twitter.png" alt="" width="350" align="right" /></p>
 <p>For the last two years, while studying the Business of APIs for <a title="API Evangelist" href="http://apievangelist.com">API Evangelist</a>, one API comes up the most in both online and offline discussions--<a title="Twitter" href="http://twitter.com"><strong>Twitter</strong></a>.</p>
@@ -12,5 +12,5 @@ domain: apivoice.com
 <p>The Twitter API developer ecosystem has spawned thousands of applications from almost a million developers, providing a platform for global innovation to occur from basic SMS based messaging to advanced smart phone apps.</p>
 <p>When I was finishing the first draft of <a title="Business of APIs" href="http://apievangelist.com/business_of_apis.php">Business of APIs</a>, and considering my next project, I considered researching more about the <a title="Twitter API" href="https://dev.twitter.com/">Twitter API</a> ecosystem.  A year later I&rsquo;m finally making time, and I will be putting more resources into understanding the business and politics of the Twitter API ecosystem.</p>
 <p>I&rsquo;m hoping to learn a lot along the way, and extract some insight from the growth and operations one of the largest and most important API developer ecosystems.&nbsp; In my style I will work to share my research in real-time here on API Voice.</p></p>
-<center><p><a href="http://apivoice.com/2012/05/06/the-business-and-politics-of-twitters-api/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+<center><p><a href="http://kinlane.github.io/api-voice/2012/05/06/the-business-and-politics-of-twitters-api/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

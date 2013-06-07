@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The Twitter Firehose
-url: http://apivoice.com/2012/07/12/the-twitter-firehose/
-source: http://apivoice.com/2012/07/12/the-twitter-firehose/
-domain: apivoice.com
+url: http://kinlane.github.io/api-voice/2012/07/12/the-twitter-firehose/
+source: http://kinlane.github.io/api-voice/2012/07/12/the-twitter-firehose/
+domain: kinlane.github.io
 ---
 {% include JB/setup %}<p><p><a title="Firehose by joevans1234, on Flickr" href="http://www.flickr.com/photos/joevans/4292116723/"><img src="http://farm3.staticflickr.com/2778/4292116723_768502f9f4.jpg" alt="Firehose" width="225" align="right" /></a></p>
 <p>&ldquo;Firehose&rdquo; is the name given to the massive, real-time stream of Tweets that flow from Twitter each day.  Twitter provides access to this &ldquo;firehose&rdquo;, using a streaming technology called XMPP, something that was <a href="http://blog.twitter.com/2010/03/enabling-rush-of-innovation.html">originally developed by John Kalucki for Technorati in 2007</a>, but after receiving requests from other companies, Twitter began making more arrangements for firehose access.</p>
@@ -130,5 +130,5 @@ domain: apivoice.com
 <p>From what I can tell, 20+ companies have been given full Twitter firehose access.  I&rsquo;m sure there are more, but without public announcements, they aren&rsquo;t obvious, but this count reflects reports I&rsquo;ve found from Twitter.  Several companies like Chainn Search went out of business, while others like Ellerdale and Kozmix were acquired by other companies like Flipboard and Walmart. And in an interesting twist, <a href="http://techcrunch.com/2011/07/20/google-justspotted/">Scoopler was shut down and the team went to work on Google+</a>.</p>
 <p>I think it&rsquo;s safe to say that we won&rsquo;t see much more talk about full Twitter firehose access arrangements, direct access will remain something a privileged few get, with all other requests for access routed to Gnip and Datasift. &nbsp;</p>
 <p>With <a href="/2012/06/29/twitter-continues-to-restrict-access-to-our-tweets/">Twitter continuing to restrict access to Tweets via the REST and Streaming APIs</a>, and access being routed to the two approved resellers, I don&rsquo;t think the Twitter firehose is about access and distribution anymore, its become about monetization and control.</p></p>
-<center><p><a href="http://apivoice.com/2012/07/12/the-twitter-firehose/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+<center><p><a href="http://kinlane.github.io/api-voice/2012/07/12/the-twitter-firehose/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Judge Alsup is a Do-er
-url: http://apivoice.com/2012/05/31/judge-alsup-is-a-do-er/
-source: http://apivoice.com/2012/05/31/judge-alsup-is-a-do-er/
-domain: apivoice.com
+url: http://kinlane.github.io/api-voice/2012/05/31/judge-alsup-is-a-do-er/
+source: http://kinlane.github.io/api-voice/2012/05/31/judge-alsup-is-a-do-er/
+domain: kinlane.github.io
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/Judge-William-Alsup.jpg" alt="" width="200" align="right" /></p>
 <p>In the API space we&rsquo;ve all been following the <a href="http://www.wired.com/wiredenterprise/2012/05/google-schmidt-page-damages/">Oracle vs. Google trial</a>.  If you want the real info, go checkout <a href="http://www.wired.com/wiredenterprise/author/caleb_garling/">Caleb Garling&rsquo;s coverage of the trial</a>, he&rsquo;s the blogger who deserves the linkage.</p>
@@ -15,5 +15,5 @@ domain: apivoice.com
 <p style="padding-left: 30px;"><em><strong><a title="Do-er" href="http://www.twilio.com/doers">Do-er</a></strong> (n): A particularly driven individual, esp. a developer, who picks up their tools and builds something special.</em></p>
 <p>Even though what Alsup has done was legal, he was driven to fully understand the situation, picked up the tool (Java), and built an important legal precedent, for us all to benefit from.</p>
 <p>When it comes to electing public officials, including judges from the local to federal level, we should be hiring more do-ers, to make sure those who are working to define how our country operates, will go the distance necessary to make sure innovation is protected.</p></p>
-<center><p><a href="http://apivoice.com/2012/05/31/judge-alsup-is-a-do-er/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+<center><p><a href="http://kinlane.github.io/api-voice/2012/05/31/judge-alsup-is-a-do-er/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

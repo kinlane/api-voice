@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Putting the Changes to the Netflix Public API in Perspective
-url: http://apivoice.com/2012/06/28/putting-the-changes-to-the-netflix-public-api-in-perspective/
-source: http://apivoice.com/2012/06/28/putting-the-changes-to-the-netflix-public-api-in-perspective/
-domain: apivoice.com
+url: http://kinlane.github.io/api-voice/2012/06/28/putting-the-changes-to-the-netflix-public-api-in-perspective/
+source: http://kinlane.github.io/api-voice/2012/06/28/putting-the-changes-to-the-netflix-public-api-in-perspective/
+domain: kinlane.github.io
 ---
 {% include JB/setup %}<p><p><a title="Netflix API" href="http://www.netflix.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/netflix_logo.gif" alt="" width="250" align="right" /></a></p>
 <p>While traveling over the last couple weeks, I put more thought into the <a title="Netflix recently made some announcements about upcoming API and terms of service changes" href="http://developer.netflix.com/blog/read/Upcoming_Changes_to_the_Netflix_API_Program">upcoming changes to the Netflix API</a>.  As I pointed out in my earlier post, I understand the <a title="tension between API owners and API consumers" href="http://www.apievangelist.com/2012/06/24/tension-between-api-owners-and-consumers/">tension between API owners and API consumers</a>, so in my analysis I want to consider the big picture before I blogged about it.</p>
@@ -15,5 +15,5 @@ domain: apivoice.com
 <p><img class="aligncenter" style="display: block; margin-left: auto; margin-right: auto;" src="http://kinlane-productions.s3.amazonaws.com/netflix/netflix-api-usage-by-audience.png" alt="" width="400" align="center" /></p>
 <p>Again, I don&rsquo;t think you can just dismiss the companies who are depending on the Netflix public APIs, but everyone understands there is risk when building your company on free, public APIs.  I think its totally valid for developers to cry foul, but these are the realities of the API economy we find ourselves in.</p>
 <p>While I think Netflix could have put more energy into its public API, I can&rsquo;t help but think maybe this is one industry where a public API is not the success story, that to move forward a big dinosaur like the movie industry, we should accept that being able to stream your movies online, via hundreds of different devices using privately controlled APIs is a big enough step forward--for now.</p></p>
-<center><p><a href="http://apivoice.com/2012/06/28/putting-the-changes-to-the-netflix-public-api-in-perspective/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+<center><p><a href="http://kinlane.github.io/api-voice/2012/06/28/putting-the-changes-to-the-netflix-public-api-in-perspective/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

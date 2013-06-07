@@ -1,9 +1,9 @@
 ---
 layout: post
 title: At What Point Should Twitter Be Considered An Essential Service?
-url: http://apivoice.com/2013/02/25/at-what-point-should-twitter-be-considered-an-essential-service/
-source: http://apivoice.com/2013/02/25/at-what-point-should-twitter-be-considered-an-essential-service/
-domain: apivoice.com
+url: http://kinlane.github.io/api-voice/2013/02/25/at-what-point-should-twitter-be-considered-an-essential-service/
+source: http://kinlane.github.io/api-voice/2013/02/25/at-what-point-should-twitter-be-considered-an-essential-service/
+domain: kinlane.github.io
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/utility/utility-water.jpg" alt="" width="200" align="right" /></p>
 <p>I&rsquo;m still processing a lot of my research last summer into the <a title="Business of Twitters API" href="https://s3.amazonaws.com/kinlane-productions/api-evangelist/utility/utility-electricity.jpeg">Business of Twitters API</a>.  My goal is to explore all aspects of what I feel is one of the single most important API platforms around today.</p>
@@ -24,5 +24,5 @@ domain: apivoice.com
 <p>There are some very important questions that need to be asked when it comes to the access of Twitter data, and the <a href="/2012/06/29/twitter-continues-to-restrict-access-to-our-tweets/">availability of the platform when there are heavy rate limits in place, meant to keep the platform up and running, but ultimately can restrict access to potentially vital public data</a>.</p>
 <p>Although I&rsquo;m very early in <a href="http://twitter.apivoice.com/">my research</a>, at this point I think we can call Twitter an essential service.  It needs to remain up, and the data that flows through the pipes need to remain openly accessible via any client and through the API.  Twitter admits that the rate limit is &ldquo;a more effective ways to reduce load and ensure that the Twitter service remains available to the greatest number of users&rdquo;.  It seems to me that it is time to find a new approach to Twitter data access via the API and possibly discussing a more distributed approach to operating Twitter--one that will allow them to maintain the control and monetization they desire, but ensures access and uptime for everyone.</p>
 <p>With Twitter fast becoming the <a title="pulse of the planet" href="https://twitter.com/twitter/status/281051652235087872">pulse of the planet</a>, I guess, my original question stands:  <em><strong>At what point should Twitter be considered an essential service?</strong></em></p></p>
-<center><p><a href="http://apivoice.com/2013/02/25/at-what-point-should-twitter-be-considered-an-essential-service/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+<center><p><a href="http://kinlane.github.io/api-voice/2013/02/25/at-what-point-should-twitter-be-considered-an-essential-service/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

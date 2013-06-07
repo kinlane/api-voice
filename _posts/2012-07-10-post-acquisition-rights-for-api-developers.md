@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Post Acquisition Rights for API Developers
-url: http://apivoice.com/2012/07/10/post-acquisition-rights-for-api-developers/
-source: http://apivoice.com/2012/07/10/post-acquisition-rights-for-api-developers/
-domain: apivoice.com
+url: http://kinlane.github.io/api-voice/2012/07/10/post-acquisition-rights-for-api-developers/
+source: http://kinlane.github.io/api-voice/2012/07/10/post-acquisition-rights-for-api-developers/
+domain: kinlane.github.io
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/face/face-com-logo.jpeg" alt="" width="200" align="right" /></p>
 <p>There was another shot fired in the <a title="API Trade Wars" href="http://www.apievangelist.com/2012/06/29/the-api-economy-welcomes-its-early-trade-wars/">API trade wars</a> this last week, this time through an acquisition by Facebook of facial recognition API Face.com.   And as usual there is great coverage at the NextWeb with, <a href="http://thenextweb.com/facebook/2012/07/07/that-was-quick-facebook-shuts-down-face-com-apis-kills-klik-app-enrages-developers/">That was quick Facebook shuts down Face.com APIs</a>, and at ProgrammableWeb with, <a title="Facebook API Euthanasia Continues: Keeping Face.com to Itself" href="http://blog.programmableweb.com/2012/07/07/facebook-api-euthanasia-continues-keeping-face-com-to-itself/">Facebook API Euthanasia Continues: Keeping Face.com to Itself</a>.</p>
@@ -15,5 +15,5 @@ domain: apivoice.com
 <p>I&rsquo;m not a lawyer, and I don&rsquo;t play one on TV, so I&rsquo;m not sure how realistic it would be for an API to include some sort of post acquisition deprecation, and it be required for the purchasing company to honor these deprecation policies.  They could work like real estate covenences, that you have to follow after you purchase a property, and are attached to the deed.</p>
 <p>I know many of the naysayers will call me naive for making these demands, and that I live in some sort of API utopia.  But the reality of it is,  APIs need developers and they welcome us in when APIs are brand spank&rsquo;n new, and we help grow their platforms and companies, assisting in making them acquisition targets.</p>
 <p>Developers need to get more picky about which APIs we&rsquo;ll use, based upon their treatment of developers--and get more demanding about there being more developer favoring terms of use, privacy policy and branding requirements.</p></p>
-<center><p><a href="http://apivoice.com/2012/07/10/post-acquisition-rights-for-api-developers/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+<center><p><a href="http://kinlane.github.io/api-voice/2012/07/10/post-acquisition-rights-for-api-developers/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

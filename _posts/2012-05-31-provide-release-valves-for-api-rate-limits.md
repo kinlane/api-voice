@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Provide Release Valves for API Rate Limits
-url: http://apivoice.com/2012/05/31/provide-release-valves-for-api-rate-limits/
-source: http://apivoice.com/2012/05/31/provide-release-valves-for-api-rate-limits/
-domain: apivoice.com
+url: http://kinlane.github.io/api-voice/2012/05/31/provide-release-valves-for-api-rate-limits/
+source: http://kinlane.github.io/api-voice/2012/05/31/provide-release-valves-for-api-rate-limits/
+domain: kinlane.github.io
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/teapot-steaming.jpg" alt="" width="200" align="right" /></p>
 <p>In my effort to better understand API access, I&rsquo;m studying how API owners control access to their APIs, with most recently being around Rate Limiting.  The other day I asked, <a title="why do we limit API access for developers" href="/2012/05/29/why-do-we-limit-api-access-for-developers/">why do we limit API access for developers</a>, and even&nbsp;<a title="explored rewarding developers for heavy usage" href="http://blog.programmableweb.com/2011/06/01/should-we-be-limiting-developers-api-usage/">explored rewarding developers for heavy usage</a>.</p>
@@ -16,5 +16,5 @@ domain: apivoice.com
 <p>There are many points of friction for developers trying to integrate with an API.  In my research, one of the ongoing complaints of developers regarding an API is around rate limits.  Many of these complaints are directed at APIs who impose rate limits without any clear path beyond the default limits.</p>
 <p>Google seems to be offering opportunities for developers to pay for use beyond their "courtesy limits", providing a form of release valve for developers concerns about API rate limits. &nbsp;Google is providing these release valves for API services via their <a title="API Console" href="https://code.google.com/apis/console/">API Console</a>, but only appear to available for a handful of services.&nbsp;</p>
 <p>While I&rsquo;m still unsure about API rate limits in general, it seems clear that if you are going to limit, make sure and provide a release valve in some way, so developers understand what the options are when they hit the ceiling, and that there are opportunities to grow.</p></p>
-<center><p><a href="http://apivoice.com/2012/05/31/provide-release-valves-for-api-rate-limits/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+<center><p><a href="http://kinlane.github.io/api-voice/2012/05/31/provide-release-valves-for-api-rate-limits/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

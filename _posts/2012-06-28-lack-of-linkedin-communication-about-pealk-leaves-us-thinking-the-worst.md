@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Lack of LinkedIn Communication About Pealk Leaves Us Thinking the Worst
-url: http://apivoice.com/2012/06/28/lack-of-linkedin-communication-about-pealk-leaves-us-thinking-the-worst/
-source: http://apivoice.com/2012/06/28/lack-of-linkedin-communication-about-pealk-leaves-us-thinking-the-worst/
-domain: apivoice.com
+url: http://kinlane.github.io/api-voice/2012/06/28/lack-of-linkedin-communication-about-pealk-leaves-us-thinking-the-worst/
+source: http://kinlane.github.io/api-voice/2012/06/28/lack-of-linkedin-communication-about-pealk-leaves-us-thinking-the-worst/
+domain: kinlane.github.io
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/linkedin/linkedin-logo.png" alt="" width="200" align="right" /></p>
 <p>I wanted to make sure I address all the recent API ecosystem battles, so after <a title="putting the changes to the Netflix API in perspective" href="http://apivoice.com/2012/06/28/putting-the-changes-to-the-netflix-public-api-in-perspective/">putting the changes to the Netflix API in perspective</a>, I wanted to talk about LinkedIn&rsquo;s decision to shut off headhunting app, Pealk&rsquo;s API access.</p>
@@ -14,5 +14,5 @@ domain: apivoice.com
 <p>I also find it hard to believe that if LinkedIn did warn Pealk, that they wouldn&rsquo;t change to stay in business--they have obviously put a lot of effort into their company.  And without more communication from LinkedIn it&rsquo;s easy to get suspicious about their motivations.</p>
 <p>The ball is in LinkedIn&rsquo;s court, and I&rsquo;d hope they will release more of a statement to help alleviate concerns in the LinkedIn API developer community. If Pealk was in violation, they should release more details and possibly consider a probation period for Pealk, so they have a chance.  If you aren&rsquo;t threatened by their application, let the community know, otherwise we&rsquo;ll just assume the worst.</p>
 <p>I think this situation represents a lack of communication by LinkedIn, publicly and behind the scenes with Pealk.  This is something other API owners can learn from, maybe by establishing a standardized approach to handling communication around TOS violations, in how you approach the violator as well as communicate with the public.</p></p>
-<center><p><a href="http://apivoice.com/2012/06/28/lack-of-linkedin-communication-about-pealk-leaves-us-thinking-the-worst/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+<center><p><a href="http://kinlane.github.io/api-voice/2012/06/28/lack-of-linkedin-communication-about-pealk-leaves-us-thinking-the-worst/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

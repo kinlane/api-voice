@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Twitter Continues to Restrict Access to Our Tweets
-url: http://apivoice.com/2012/06/29/twitter-continues-to-restrict-access-to-our-tweets/
-source: http://apivoice.com/2012/06/29/twitter-continues-to-restrict-access-to-our-tweets/
-domain: apivoice.com
+url: http://kinlane.github.io/api-voice/2012/06/29/twitter-continues-to-restrict-access-to-our-tweets/
+source: http://kinlane.github.io/api-voice/2012/06/29/twitter-continues-to-restrict-access-to-our-tweets/
+domain: kinlane.github.io
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/twitter/twitter-access.png" alt="" width="200" align="right" /></p>
 <p>Twitter has become a global communication platform, allowing anyone in the world to express anything, from simple everyday thoughts, to ideas that some say have the potential to be the seeds of revolution.  Twitter&rsquo;s success was made possible because of open access to Twitter via the web and mobile phones via either SMS or native apps--with a large portion of this access made possible via an open Twitter API.</p>
@@ -81,5 +81,5 @@ domain: apivoice.com
 <p>As a API owner I understand Twitter&rsquo;s need to maintain control over their brand and platform, but I feel their approach has severely damaged the entire open API movement. Twitter has actively maintained the legacy image of Twitter as an open API platform, encouraging developers to build, while quietly reducing access, stifling innovation around what is the most important global communication and API platforms in the world--a process which doesn't just destroy their ecosystem, but has damaged developer's taste for building with open APIs.</p>
 <p>Analyzing the last six years of Twitter's history, it's very clear that Twitter does not have the respect for the ecosystem that has significantly contributed to the company's success. Beginning in 2010 Twitter saw developers as an obstacle to their goals for extracting value from the passionate user base, and monetizing the increasingly valuable stream of Tweets, that we generate on a daily basis, around the globe. &nbsp;</p>
 <p>Twitter wraps itself in the rhetoric of free speech, but has done nothing but restrict the voice of the developer and everyone's access to our Tweets.</p></p>
-<center><p><a href="http://apivoice.com/2012/06/29/twitter-continues-to-restrict-access-to-our-tweets/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+<center><p><a href="http://kinlane.github.io/api-voice/2012/06/29/twitter-continues-to-restrict-access-to-our-tweets/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

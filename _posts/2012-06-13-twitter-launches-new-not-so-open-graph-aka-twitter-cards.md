@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Twitter Launches New, Not So Open Graph, aka Twitter Cards
-url: http://apivoice.com/2012/06/13/twitter-launches-new-not-so-open-graph-aka-twitter-cards/
-source: http://apivoice.com/2012/06/13/twitter-launches-new-not-so-open-graph-aka-twitter-cards/
-domain: apivoice.com
+url: http://kinlane.github.io/api-voice/2012/06/13/twitter-launches-new-not-so-open-graph-aka-twitter-cards/
+source: http://kinlane.github.io/api-voice/2012/06/13/twitter-launches-new-not-so-open-graph-aka-twitter-cards/
+domain: kinlane.github.io
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/twitter/twitter-dave-winer.gif" alt="" width="250" align="right" /></p>
 <p>I woke up this morning to Dave Winer&rsquo;s post, <a href="http://scripting.com/stories/2012/06/13/twittersLevelPlayingField.html">Twitter's (not) level playing field</a>, in my feed.  Where Dave is trying to understand the logic of what content goes into the "detail" pane of a Tweet.  At first glance it looks purely like Twitter is supporting&nbsp;<a href="http://oembed.com/">oEmbed</a>, then from looking at the code of some of their partners it appears to be an <a href="http://ogp.me/">Open Graph</a> implementation.</p>
@@ -21,5 +21,5 @@ domain: apivoice.com
 <p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/twitter/twitter-card-2.png" alt="" width="300" align="right" /></p>
 <p>Twitter cards looks like they have taken a page out of the Facebook Open Graph playbook, and taken an existing open protocol and used it for a not so open use.  Twitter Cards will only render for domains which have been whitelisted by Twitter, and if you would like your domain to be considered for inclusion in the whitelist, you have to <a href="https://dev.twitter.com/form/participate-twitter-cards">fill out a form</a>--and Twitter clearly states that "they will not be able to respond to or approve all requests".</p>
 <p>The move to support an open graph style protocol definitely makes sense to me, but not including developers in this early on, doesn&rsquo;t.  I also find it interesting that they <a href="http://blog.twitter.com/2012/06/experience-more-with-expanded-tweets.html">don&rsquo;t reference Twitter Cards in their announcement today on the main Twitter blog</a>?  I guess a <a href="https://dev.twitter.com/blog">Twitter Dev Blog</a> announcement is forthcoming?</p></p>
-<center><p><a href="http://apivoice.com/2012/06/13/twitter-launches-new-not-so-open-graph-aka-twitter-cards/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+<center><p><a href="http://kinlane.github.io/api-voice/2012/06/13/twitter-launches-new-not-so-open-graph-aka-twitter-cards/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

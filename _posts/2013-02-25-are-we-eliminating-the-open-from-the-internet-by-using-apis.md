@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Are We Eliminating The Open From the Internet By Using APIs?
-url: http://apivoice.com/2013/02/25/are-we-eliminating-the-open-from-the-internet-by-using-apis/
-source: http://apivoice.com/2013/02/25/are-we-eliminating-the-open-from-the-internet-by-using-apis/
-domain: apivoice.com
+url: http://kinlane.github.io/api-voice/2013/02/25/are-we-eliminating-the-open-from-the-internet-by-using-apis/
+source: http://kinlane.github.io/api-voice/2013/02/25/are-we-eliminating-the-open-from-the-internet-by-using-apis/
+domain: kinlane.github.io
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/sorry-we-are-closed.jpeg" alt="" width="250" align="right" /></p>
 <p>Don&rsquo;t get me wrong.  I love what I do.  I religiously advocate for the usage of APIs across ALL aspects of our business and personal lives, while also making default throughout government operations.  Most of the time I&rsquo;m confident that if done right, with proper communication and transparency all will be well.  But there are those moments where I ask myself, what the hell am i doing?  Fearing I may do more harm, than good.</p>
@@ -18,5 +18,5 @@ domain: apivoice.com
 <p>Even though APIs have found success by using HTTP as transport, I often feel like we are potentially rerouting our personal and business worlds through an evolution of the &ldquo;<a href="http://www.webopedia.com/TERM/W/walled_garden.html">walled garden</a>&rdquo; concept, where the information from the websites we visit and the mobile apps we depend, appear to be transported on the open Internet, but in reality is being routed through private pipes where all content is ripe for reading, storage, sharing, transformation and even in some cases stop being ours to own entirely.</p>
 <p>If feel like we are at an important intersection.  One where we can keep APIs open with the same life giving oxygen that made the Internet work, or we can choose to do away with privacy, ownership and ultimately value, in the name of making a quick buck.  The only thing that an API service provider is required to before rerouting your business and personal lives, is plainly present you with a terms of use and privacy policy--one that most likely is so complex, you will never read.</p>
 <p>I think this post reflects one possible dystopian future, if we do not have the proper conversations around APIs today. With a healthy dialogue and relationship between platforms, their developers and users, guided by sensible terms of use, privacy, data ownership and data retention policies.</p></p>
-<center><p><a href="http://apivoice.com/2013/02/25/are-we-eliminating-the-open-from-the-internet-by-using-apis/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+<center><p><a href="http://kinlane.github.io/api-voice/2013/02/25/are-we-eliminating-the-open-from-the-internet-by-using-apis/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

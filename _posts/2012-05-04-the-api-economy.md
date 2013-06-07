@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The API Economy
-url: http://apivoice.com/2012/05/04/the-api-economy/
-source: http://apivoice.com/2012/05/04/the-api-economy/
-domain: apivoice.com
+url: http://kinlane.github.io/api-voice/2012/05/04/the-api-economy/
+source: http://kinlane.github.io/api-voice/2012/05/04/the-api-economy/
+domain: kinlane.github.io
 ---
 {% include JB/setup %}<p><p><span>Those of us in the tech community who work with APIs talk a lot about the API economy.&nbsp;</span><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/financial/stock-market-display.jpg" alt="" width="250" align="right" /><span>This refers to how the Internet is changing all industries on a global scale, and how APIs are a driving force behind this.</span>&nbsp;</p>
 <p><span>Behind the scenes, APIs are an integral part of:</span></p>
@@ -21,5 +21,5 @@ domain: apivoice.com
 </ul>
 <p><span>Cloud computing power like&nbsp;</span><a href="http://www.kinlane.com/category/amazon/amazon-ec2/">Amazon EC2</a><span>&nbsp;combined with financial APIs provide a way to make decisions and trade based upon real-time market data in extremely high volume and make decisions within fractions of a second.</span></p>
 <p><span>The power cloud computing, social networking, mobile phones combined with APIs are truly ushering in a new API driven economy.</span></p></p>
-<center><p><a href="http://apivoice.com/2012/05/04/the-api-economy/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+<center><p><a href="http://kinlane.github.io/api-voice/2012/05/04/the-api-economy/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

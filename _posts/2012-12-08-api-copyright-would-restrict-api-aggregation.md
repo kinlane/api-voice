@@ -1,9 +1,9 @@
 ---
 layout: post
 title: API Copyright Would Restrict API Aggregation
-url: http://apivoice.com/2012/12/08/api-copyright-would-restrict-api-aggregation/
-source: http://apivoice.com/2012/12/08/api-copyright-would-restrict-api-aggregation/
-domain: apivoice.com
+url: http://kinlane.github.io/api-voice/2012/12/08/api-copyright-would-restrict-api-aggregation/
+source: http://kinlane.github.io/api-voice/2012/12/08/api-copyright-would-restrict-api-aggregation/
+domain: kinlane.github.io
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/aggregate-api.jpg" alt="" width="250" align="right" /></p>
 <p>There are over <a href="http://www.programmableweb.com/apis/directory">8100 in the ProgrammableWeb API directory</a>.  We are at a point where aggregating common, popular APIs into single, standardized interfaces is emerging as the next evolution in web and mobile app development.</p>
@@ -27,5 +27,5 @@ domain: apivoice.com
 <li><a href="http://apievangelist.com/2012/09/07/introducing-the-next-generation-of-communication-using-apis/">Introducing the Next Generation of Communication Using APIs</a></li>
 <li><a href="http://apievangelist.com/2012/08/29/efficient-social-api-development-with-singly/">Efficient Social API Development with Singly</a></li>
 </ul></p>
-<center><p><a href="http://apivoice.com/2012/12/08/api-copyright-would-restrict-api-aggregation/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+<center><p><a href="http://kinlane.github.io/api-voice/2012/12/08/api-copyright-would-restrict-api-aggregation/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

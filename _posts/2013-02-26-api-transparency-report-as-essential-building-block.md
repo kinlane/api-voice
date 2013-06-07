@@ -1,9 +1,9 @@
 ---
 layout: post
 title: API Transparency Report as Essential Building Block
-url: http://apivoice.com/2013/02/26/api-transparency-report-as-essential-building-block/
-source: http://apivoice.com/2013/02/26/api-transparency-report-as-essential-building-block/
-domain: apivoice.com
+url: http://kinlane.github.io/api-voice/2013/02/26/api-transparency-report-as-essential-building-block/
+source: http://kinlane.github.io/api-voice/2013/02/26/api-transparency-report-as-essential-building-block/
+domain: kinlane.github.io
 ---
 {% include JB/setup %}<p><p><img style="padding: 10px;" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/tag-cloud-transparency-report.jpg" alt="" width="325" align="right" /></p>
 <p>After reading about <a href="http://googleblog.blogspot.com/2013/01/transparency-report-what-it-takes-for.html">Google&rsquo;s release of their transparency report last month</a>, I decided I would be <a href="http://apivoice.com/2013/01/23/making-transparency-reports-standard-operating-procedure/">addding API transparency reports to my list of essential building blocks</a> for API owners. Since I wrote that, I&rsquo;ve had a great post from EFF also <a href="https://www.eff.org/deeplinks/2013/01/its-time-transparency-reports-become-new-normal">stating that its time for transparency reports to become the new normal</a>. &nbsp;Where the EFF outlines the illness in our current approach:</p>
@@ -24,5 +24,5 @@ domain: apivoice.com
 </ol>
 <p>If your company is going to provide a service that users depend on, one that retains their personal data in any way--you should have a transparency report that educates users about how and what any government is accessing and using information about them.</p>
 <p>This applies to any data collected or transmitted via APIs from a platform via 3rd party platforms and services.  APIs owe it to end users to provide insight into how their data is being used by 3rd party application developers via oAuth, the same insight should be provided regarding how government organizations is accessing and using data as well.</p></p>
-<center><p><a href="http://apivoice.com/2013/02/26/api-transparency-report-as-essential-building-block/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+<center><p><a href="http://kinlane.github.io/api-voice/2013/02/26/api-transparency-report-as-essential-building-block/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

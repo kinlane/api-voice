@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Government and Vendor Data Access Via My Platform OAuth
-url: http://apivoice.com/2013/02/26/government-and-vendor-data-access-via-my-platform-oauth/
-source: http://apivoice.com/2013/02/26/government-and-vendor-data-access-via-my-platform-oauth/
-domain: apivoice.com
+url: http://kinlane.github.io/api-voice/2013/02/26/government-and-vendor-data-access-via-my-platform-oauth/
+source: http://kinlane.github.io/api-voice/2013/02/26/government-and-vendor-data-access-via-my-platform-oauth/
+domain: kinlane.github.io
 ---
 {% include JB/setup %}<p><p><a href="http://oauth.net/" target="_blank"><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/oauth/OAuth2.png" alt="" width="150" align="right" /></a></p>
 <p>I&rsquo;m working through some thoughts from <a href="http://www.apistrategyconference.com/">API Strategy &amp; Practice</a>, around <a title="OAuth" href="http://en.wikipedia.org/wiki/OAuth">OAuth</a>.  I just wrote a post asking <a title="which of the three OAuth legs is most important" href="http://www.apievangelist.com/2013/02/26/which-of-the-three-oauth-legs-is-the-most-important/">which of the three OAuth legs is most important</a>?  As I work through these thoughts, I&rsquo;m also working through another post about platform transparency reports becoming default.</p>
@@ -15,5 +15,5 @@ domain: apivoice.com
 </ul>
 <p>I&rsquo;m not looking to further muddy the OAuth conversation.  Just as I&rsquo;m thinking about how to educate the average user about OAuth, hopefully shifting the power into their hands--I wanted to deeply understand how we can further empower everyone to truly own their data in this increasingly API driven, big data economy.</p>
 <p>OAuth isn't just technical. &nbsp;It is something every Internet user needs to understand. &nbsp;We need to get to work educating all three legs of the OAuth chain, about best practices.</p></p>
-<center><p><a href="http://apivoice.com/2013/02/26/government-and-vendor-data-access-via-my-platform-oauth/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+<center><p><a href="http://kinlane.github.io/api-voice/2013/02/26/government-and-vendor-data-access-via-my-platform-oauth/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: How Are We Going to Track Private APIs?
-url: http://apivoice.com/2012/05/22/how-are-we-going-to-track-private-apis/
-source: http://apivoice.com/2012/05/22/how-are-we-going-to-track-private-apis/
-domain: apivoice.com
+url: http://kinlane.github.io/api-voice/2012/05/22/how-are-we-going-to-track-private-apis/
+source: http://kinlane.github.io/api-voice/2012/05/22/how-are-we-going-to-track-private-apis/
+domain: kinlane.github.io
 ---
 {% include JB/setup %}<p><table cellpadding="3" align="right">
 <tbody>
@@ -20,5 +20,5 @@ domain: apivoice.com
 <p>So my question is, how are we going to track on the growth of private APIs along with public APIs?  Since mobile app development is such an important piece, can we count mobile apps produced by a company?  Can we count on API service providers to start reporting on this data?</p>
 <p>I don&rsquo;t have the answer.  It is something I think we need to figure out, not just so ProgrammableWeb can have its finger on the pulse, but there is an ever increasing amount of business and personal resources flowing through these API pipes, we need to have an understanding of where these API pipes are laid, which industries, etc.</p>
 <p>Much like the rollout of fiber in the late 90&rsquo;s, we are going to see massive API rollouts, without much oversight and map of where these virtual pipes are.  I&rsquo;d like to hear more about how we can work together to build a map of the back-end of the new API driven economy.</p></p>
-<center><p><a href="http://apivoice.com/2012/05/22/how-are-we-going-to-track-private-apis/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+<center><p><a href="http://kinlane.github.io/api-voice/2012/05/22/how-are-we-going-to-track-private-apis/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

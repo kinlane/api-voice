@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Why Do We Limit API Access for Developers?
-url: http://apivoice.com/2012/05/29/why-do-we-limit-api-access-for-developers/
-source: http://apivoice.com/2012/05/29/why-do-we-limit-api-access-for-developers/
-domain: apivoice.com
+url: http://kinlane.github.io/api-voice/2012/05/29/why-do-we-limit-api-access-for-developers/
+source: http://kinlane.github.io/api-voice/2012/05/29/why-do-we-limit-api-access-for-developers/
+domain: kinlane.github.io
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/API-Rate-Limiting.png" alt="" width="300" align="right" /></p>
 <p>I am putting a lot of thought into why we limit API access for developers. &nbsp;I understand requiring keys to access APIs, and tracking who has access to your API, so you can understand how they are using it.  What I don&rsquo;t understand is why you&rsquo;d want to limit API access.</p>
@@ -11,5 +11,5 @@ domain: apivoice.com
 <p>Last year I touched on this subject with a post in ProgrammableWeb called, <a title="Should We Be Limiting Developers&rsquo; API Usage" href="http://blog.programmableweb.com/2011/06/01/should-we-be-limiting-developers-api-usage/">Should We Be Limiting Developers&rsquo; API Usage</a>?   Where I flip this model on its head and showcase two API providers, YellowAPI and ironically enough Qwerly (another story by itself), and how they were actually rewarding developers for more API usage.</p>
 <p>I understand that in the early days, limiting access was a way to keep people from using their APIs too much, but I think in the era of cloud computing, that throttling as opposed to limiting is a better option.  Let price control a developers API usage, and set that price at a level that is logical for this equation.</p>
 <p>If your limiting developers from using your API, why even have one?  It seems like you should sit down and re-evaluate your business model.  I hope you don&rsquo;t have other products that your customers can access, that at some point you cut them off and say, you can&rsquo;t have anymore.</p></p>
-<center><p><a href="http://apivoice.com/2012/05/29/why-do-we-limit-api-access-for-developers/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
+<center><p><a href="http://kinlane.github.io/api-voice/2012/05/29/why-do-we-limit-api-access-for-developers/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 
