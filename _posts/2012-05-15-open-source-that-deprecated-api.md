@@ -23,5 +23,4 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/open
 <p>Open sourcing a deprecated API, would allow anyone to step in, and run with the API either taking in a new direction and / or supporting the existing customer base and opportunity. One example of this was when <a href="http://engineering.linkedin.com/open-source/indextank-now-open-source">LinkedIn acquired IndexTank, then open-sourced the core technology</a> enabling other companies to step in and support existing API developers and take advantage of the indexing technology.</p>
 <p>Even beyond supporting existing API developers, open sourcing a deprecated API would establish an &ldquo;open&rdquo; precedent for a technology, and even upon the demise of its parent company, would prevent copyright and patent trolls from buying up legacy companies, only with the goal of stifling innovation.</p>
 <p>So consider adding an open-source clause to your API deprecation policy.</p></p>
-<center><p><a href="http://kinlane.github.io/api-voice/2012/05/15/open-source-that-deprecated-api/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

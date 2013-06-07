@@ -22,5 +22,4 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/stoc
 </ul>
 <p><span>Cloud computing power like&nbsp;</span><a href="http://www.kinlane.com/category/amazon/amazon-ec2/">Amazon EC2</a><span>&nbsp;combined with financial APIs provide a way to make decisions and trade based upon real-time market data in extremely high volume and make decisions within fractions of a second.</span></p>
 <p><span>The power cloud computing, social networking, mobile phones combined with APIs are truly ushering in a new API driven economy.</span></p></p>
-<center><p><a href="http://kinlane.github.io/api-voice/2012/05/04/the-api-economy/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

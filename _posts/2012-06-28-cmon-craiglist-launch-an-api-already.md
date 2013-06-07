@@ -13,5 +13,4 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/crai
 <p><img src="http://kinlane-productions.s3.amazonaws.com/padmapper-logo.jpg" alt="" align="right" /></p>
 <p>You are missing a HUGE opportunity to extend and control your brand. Craigslist needs pipe their data to one of the <a title="API service providers" href="http://apievangelist.com/2012/06/15/api-service-provider-roundup-for-2012/">API service providers</a>, require developers to register for keys, provide some terms of use and a branding kit(oh wait you'd need a logo too), and start tracking on and controlling what people are doing with your content.</p>
 <p>You can spend your resources on policing the space, sending cease and desist letters creating bad PR for craiglist or you can provide an API and take some control over what developers are going to do, and encourage innovation around the user generated content that has made Craigslist so successful.</p></p>
-<center><p><a href="http://kinlane.github.io/api-voice/2012/06/28/cmon-craiglist-launch-an-api-already/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

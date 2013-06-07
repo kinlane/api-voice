@@ -48,5 +48,4 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/pyro
 <p>Open is often confused with being publicly available, and the act of launching a technical API public, is by default "open".</p>
 <p>When in reality open is much more of a philosophical and ethical debate that can vary widely depending on each APIs perspective and the relationship it has with its community.</p>
 <p>The <a href="http://api500.com/post/44022221316/what-is-open">API Rating Agency</a> offers up some important detail, that I will use to help communicate what is open to current and aspiring API providers.  Hopefully we can all find a balance that will keep things healthy.</p></p>
-<center><p><a href="http://kinlane.github.io/api-voice/2013/02/26/three-layers-of-open/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

@@ -25,5 +25,4 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/tag-
 </ol>
 <p>If your company is going to provide a service that users depend on, one that retains their personal data in any way--you should have a transparency report that educates users about how and what any government is accessing and using information about them.</p>
 <p>This applies to any data collected or transmitted via APIs from a platform via 3rd party platforms and services.  APIs owe it to end users to provide insight into how their data is being used by 3rd party application developers via oAuth, the same insight should be provided regarding how government organizations is accessing and using data as well.</p></p>
-<center><p><a href="http://kinlane.github.io/api-voice/2013/02/26/api-transparency-report-as-essential-building-block/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

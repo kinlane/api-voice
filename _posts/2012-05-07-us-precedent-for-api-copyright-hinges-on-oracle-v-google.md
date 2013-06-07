@@ -23,5 +23,4 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/orac
 <p>This kind of interoperability is critical to growth and innovation in all areas of the API sector.  What if <a title="AVOS Systems" href="http://www.avos.com/">AVOS Systems</a> (owners of Delicious) decided to file for copyright on the Delicioius API, where would this leave Pinboard?  Or what if Amazon copyrighted the web API for EC2 and S3?</p>
 <p>I don&rsquo;t know.  I only know enough to be concerned at this point.  There aren&rsquo;t many answers right now.  But to quote Jonathan Schwartz, Sun CEO:</p>
 <blockquote><em>"We wanted to build the biggest tent and invite as many people as possible,&rdquo; Schwartz said. &ldquo;You have open APIs and compete on implementations."</em></blockquote></p>
-<center><p><a href="http://kinlane.github.io/api-voice/2012/05/07/us-precedent-for-api-copyright-hinges-on-oracle-v-google/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

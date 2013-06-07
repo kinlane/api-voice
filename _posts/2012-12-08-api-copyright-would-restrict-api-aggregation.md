@@ -28,5 +28,4 @@ image:
 <li><a href="http://apievangelist.com/2012/09/07/introducing-the-next-generation-of-communication-using-apis/">Introducing the Next Generation of Communication Using APIs</a></li>
 <li><a href="http://apievangelist.com/2012/08/29/efficient-social-api-development-with-singly/">Efficient Social API Development with Singly</a></li>
 </ul></p>
-<center><p><a href="http://kinlane.github.io/api-voice/2012/12/08/api-copyright-would-restrict-api-aggregation/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

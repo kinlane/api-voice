@@ -16,5 +16,4 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/open
 </ul>
 <p>Maybe open is a combination of all of those?  If any of those areas apply to your APIs definition of open, which of the three area is most important and delivers the most value to your business?</p>
 <p>I&rsquo;m working on what I&rsquo;d call the "varying degrees of open", and applying some of this to my <a href="http://theapistack.com/ranking.html">API stack ranking</a> to reward APIs for using &ldquo;open&rdquo; appropriately, and penalize for using inappropriately..</p></p>
-<center><p><a href="http://kinlane.github.io/api-voice/2013/04/15/the-3-legs-of-open-api/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

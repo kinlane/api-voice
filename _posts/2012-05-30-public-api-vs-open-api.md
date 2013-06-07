@@ -25,5 +25,4 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/open
 <p>Those seem like a few of the obvious ones, what else am I missing?  Many companies are actively using the term "open API", when they should be using the term "public API".</p>
 <p>I think many companies could easily make the choice to truly be open, but choose to just use it as a marketing term, rather than in a literal sense.</p>
 <p>Let's call APIs what they are really are, "public APIs".</p></p>
-<center><p><a href="http://kinlane.github.io/api-voice/2012/05/30/public-api-vs-open-api/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

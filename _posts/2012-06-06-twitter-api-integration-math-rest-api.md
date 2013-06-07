@@ -17,5 +17,4 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/twit
 &mdash; Taylor Singletary (@episod) <a href="https://twitter.com/episod/status/210400888928481281">June 6, 2012</a></blockquote>
 <script src="http://platform.twitter.com/widgets.js"></script>
 <p>The Twitter REST API will not provide the access I need, and deliver the data I need for my API ranking and monitoring system.  So next step is to write code that uses the <a href="https://dev.twitter.com/docs/streaming-apis">Twitter Streaming API</a>, and see what kind of access it provides me for my startup.</p></p>
-<center><p><a href="http://kinlane.github.io/api-voice/2012/06/06/twitter-api-integration-math-rest-api/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

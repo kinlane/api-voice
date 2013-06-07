@@ -14,5 +14,4 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Nike
 </ul>
 <p>Its good to see Nike license this important data under ODbL, allowing developers to freely share, create and adapt as long as you attribute, share-alike and keep the data open.</p>
 <p>It was also interesting to see Nike license the API itself under the GNU license, keeping the API interface free and accessible for other people to use, keeping setting a publicly accessible standard for sustainable products index APIs.</p></p>
-<center><p><a href="http://kinlane.github.io/api-voice/2012/05/23/new-openly-licensed-api-from-nike/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

@@ -19,5 +19,4 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/exec
 <li><strong>Managed Post-Release </strong>- A point of contact must be designated to assist with data use and to respond&nbsp;to complaints about adherence to these open data requirements.</li>
 </ul>
 <p>I think these are some pretty solid bullet points for defining open data, whether you are a government agency, enterprise corporation or small startup. There are some pretty basic concepts at play here. &nbsp;But concepts that can have HUGE impact in how we operate as a society and a global marketplace. &nbsp;</p></p>
-<center><p><a href="http://kinlane.github.io/api-voice/2013/05/09/open-data-as-defined-by-the-white-house/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

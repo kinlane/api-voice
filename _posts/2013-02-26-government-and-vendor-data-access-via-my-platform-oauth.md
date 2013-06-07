@@ -16,5 +16,4 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/OAut
 </ul>
 <p>I&rsquo;m not looking to further muddy the OAuth conversation.  Just as I&rsquo;m thinking about how to educate the average user about OAuth, hopefully shifting the power into their hands--I wanted to deeply understand how we can further empower everyone to truly own their data in this increasingly API driven, big data economy.</p>
 <p>OAuth isn't just technical. &nbsp;It is something every Internet user needs to understand. &nbsp;We need to get to work educating all three legs of the OAuth chain, about best practices.</p></p>
-<center><p><a href="http://kinlane.github.io/api-voice/2013/02/26/government-and-vendor-data-access-via-my-platform-oauth/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

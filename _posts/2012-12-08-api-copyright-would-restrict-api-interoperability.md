@@ -26,5 +26,4 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/api-
 <li><a href="http://blog.programmableweb.com/2011/05/02/unified-apis-or-api-standards-the-race-is-on/">Unified APIs or API Standards, The Race is On</a> - Kin Lane</li>
 <li><a href="http://gigaom.com/cloud/the-great-challenge-and-opportunity-of-cloud-interoperability/">The great challenge&mdash;and opportunity&mdash;of cloud: interoperability</a> - James Urquhart</li>
 </ul></p>
-<center><p><a href="http://kinlane.github.io/api-voice/2012/12/08/api-copyright-would-restrict-api-interoperability/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

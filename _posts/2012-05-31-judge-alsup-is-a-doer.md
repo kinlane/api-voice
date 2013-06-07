@@ -16,5 +16,4 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Judg
 <p style="padding-left: 30px;"><em><strong><a title="Do-er" href="http://www.twilio.com/doers">Do-er</a></strong> (n): A particularly driven individual, esp. a developer, who picks up their tools and builds something special.</em></p>
 <p>Even though what Alsup has done was legal, he was driven to fully understand the situation, picked up the tool (Java), and built an important legal precedent, for us all to benefit from.</p>
 <p>When it comes to electing public officials, including judges from the local to federal level, we should be hiring more do-ers, to make sure those who are working to define how our country operates, will go the distance necessary to make sure innovation is protected.</p></p>
-<center><p><a href="http://kinlane.github.io/api-voice/2012/05/31/judge-alsup-is-a-do-er/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 

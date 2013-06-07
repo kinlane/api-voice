@@ -12,5 +12,4 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/tumb
 <p><a href="http://thenextweb.com/twitter/2012/08/22/tumblr-becomes-next-property-instagram-twitter-friend-finding-privileges-revoked/">The NextWeb has an official statement from Tumblr</a> on their site:</p>
 <blockquote><em>"Tumblr has confirmed the removal, and says that it is &lsquo;disappointed&rsquo; by Twitter&rsquo;s decision to make them remove the feature despite being one of its partners for the new Twitter Cards features."</em></blockquote>
 <p>Twitter is obviously not worried about making friends, with Tumblr being the third high profile partnership to be terminated including Instagram and LinkedIn.   While Twitter might feel that their position with users is solid, I can&rsquo;t imagine their reputation can take much more of this negative press without seeing some sort of impact.</p></p>
-<center><p><a href="http://kinlane.github.io/api-voice/2012/08/22/twitter-cuts-off-tumblrs-ability-to-find-friends/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
 
