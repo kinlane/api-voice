@@ -86,7 +86,7 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : hack-weekends
+      short_name : api-voice
     livefyre :
       site_id : 123
     intensedebate :
