@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Post Acquisition Rights for API Developers
-url: http://kinlane.github.io/api-voice/2012/07/10/post-acquisition-rights-for-api-developers/
-source: http://kinlane.github.io/api-voice/2012/07/10/post-acquisition-rights-for-api-developers/
-domain: kinlane.github.io
+url: http://apievangelist.com/2012/07/10/post-acquisition-rights-for-api-developers/
+source: http://apievangelist.com/2012/07/10/post-acquisition-rights-for-api-developers/
+domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/face-com-logo.jpeg
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/face/face-com-logo.jpeg" alt="" width="200" align="right" /></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: C'mon Craiglist, Launch an API Already
-url: http://kinlane.github.io/api-voice/2012/06/28/cmon-craiglist-launch-an-api-already/
-source: http://kinlane.github.io/api-voice/2012/06/28/cmon-craiglist-launch-an-api-already/
-domain: kinlane.github.io
+url: http://apievangelist.com/2012/06/28/cmon-craiglist-launch-an-api-already/
+source: http://apievangelist.com/2012/06/28/cmon-craiglist-launch-an-api-already/
+domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/craigslist.png
 ---
 {% include JB/setup %}<p><p><img src="http://kinlane-productions.s3.amazonaws.com/craigslist.png" alt="" align="right" /></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Twitter API Integration Math: REST API
-url: http://kinlane.github.io/api-voice/2012/06/06/twitter-api-integration-math-rest-api/
-source: http://kinlane.github.io/api-voice/2012/06/06/twitter-api-integration-math-rest-api/
-domain: kinlane.github.io
+url: http://apievangelist.com/2012/06/06/twitter-api-integration-math-rest-api/
+source: http://apievangelist.com/2012/06/06/twitter-api-integration-math-rest-api/
+domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/twitter-bird-blue-on-white.png
 ---
 {% include JB/setup %}<p><p><img src="http://kinlane-productions.s3.amazonaws.com/twitter/twitter-bird-blue-on-white.png" alt="" width="200" align="right" /></p>

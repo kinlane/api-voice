@@ -1,9 +1,9 @@
 ---
 layout: post
 title: New Openly Licensed API from Nike
-url: http://kinlane.github.io/api-voice/2012/05/23/new-openly-licensed-api-from-nike/
-source: http://kinlane.github.io/api-voice/2012/05/23/new-openly-licensed-api-from-nike/
-domain: kinlane.github.io
+url: http://apievangelist.com/2012/05/23/new-openly-licensed-api-from-nike/
+source: http://apievangelist.com/2012/05/23/new-openly-licensed-api-from-nike/
+domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Nike-Makers.png
 ---
 {% include JB/setup %}<p><p><a href="http://nikemakers.tumblr.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/nike/Nike-Makers.png" alt="" width="250" align="right" /></a></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: At What Point Should Twitter Be Considered An Essential Service?
-url: http://kinlane.github.io/api-voice/2013/02/25/at-what-point-should-twitter-be-considered-an-essential-service/
-source: http://kinlane.github.io/api-voice/2013/02/25/at-what-point-should-twitter-be-considered-an-essential-service/
-domain: kinlane.github.io
+url: http://apievangelist.com/2013/02/25/at-what-point-should-twitter-be-considered-an-essential-service/
+source: http://apievangelist.com/2013/02/25/at-what-point-should-twitter-be-considered-an-essential-service/
+domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/utility-water.jpg
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/utility/utility-water.jpg" alt="" width="200" align="right" /></p>

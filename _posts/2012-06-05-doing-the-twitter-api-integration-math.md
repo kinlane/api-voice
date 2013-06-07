@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Doing the Twitter API Integration Math
-url: http://kinlane.github.io/api-voice/2012/06/05/doing-the-twitter-api-integration-math/
-source: http://kinlane.github.io/api-voice/2012/06/05/doing-the-twitter-api-integration-math/
-domain: kinlane.github.io
+url: http://apievangelist.com/2012/06/05/doing-the-twitter-api-integration-math/
+source: http://apievangelist.com/2012/06/05/doing-the-twitter-api-integration-math/
+domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/twitter-full-logo-black.png
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/twitter/twitter-full-logo-black.png" alt="" align="right" /></p>

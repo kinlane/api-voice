@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Lack of LinkedIn Communication About Pealk Leaves Us Thinking the Worst
-url: http://kinlane.github.io/api-voice/2012/06/28/lack-of-linkedin-communication-about-pealk-leaves-us-thinking-the-worst/
-source: http://kinlane.github.io/api-voice/2012/06/28/lack-of-linkedin-communication-about-pealk-leaves-us-thinking-the-worst/
-domain: kinlane.github.io
+url: http://apievangelist.com/2012/06/28/lack-of-linkedin-communication-about-pealk-leaves-us-thinking-the-worst/
+source: http://apievangelist.com/2012/06/28/lack-of-linkedin-communication-about-pealk-leaves-us-thinking-the-worst/
+domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/linkedin-logo.png
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/linkedin/linkedin-logo.png" alt="" width="200" align="right" /></p>

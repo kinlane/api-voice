@@ -1,9 +1,9 @@
 ---
 layout: post
 title: API Copyright Would Restrict API Aggregation
-url: http://kinlane.github.io/api-voice/2012/12/08/api-copyright-would-restrict-api-aggregation/
-source: http://kinlane.github.io/api-voice/2012/12/08/api-copyright-would-restrict-api-aggregation/
-domain: kinlane.github.io
+url: http://apievangelist.com/2012/12/08/api-copyright-would-restrict-api-aggregation/
+source: http://apievangelist.com/2012/12/08/api-copyright-would-restrict-api-aggregation/
+domain: apievangelist.com
 image: 
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/aggregate-api.jpg" alt="" width="250" align="right" /></p>

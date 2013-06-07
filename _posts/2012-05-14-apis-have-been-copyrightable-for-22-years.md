@@ -1,9 +1,9 @@
 ---
 layout: post
 title: APIs Have Been Copyrightable for 22 Years
-url: http://kinlane.github.io/api-voice/2012/05/14/apis-have-been-copyrightable-for-22-years/
-source: http://kinlane.github.io/api-voice/2012/05/14/apis-have-been-copyrightable-for-22-years/
-domain: kinlane.github.io
+url: http://apievangelist.com/2012/05/14/apis-have-been-copyrightable-for-22-years/
+source: http://apievangelist.com/2012/05/14/apis-have-been-copyrightable-for-22-years/
+domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/api-legal.jpg
 ---
 {% include JB/setup %}<p><p><img src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/api-legal.jpg" alt="" width="250" align="right" /></p>

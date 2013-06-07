@@ -1,9 +1,9 @@
 ---
 layout: post
 title: An API Should Allow Users Access To All Data In A System
-url: http://kinlane.github.io/api-voice/2012/12/16/an-api-should-allow-users-access-to-all-data-in-a-system/
-source: http://kinlane.github.io/api-voice/2012/12/16/an-api-should-allow-users-access-to-all-data-in-a-system/
-domain: kinlane.github.io
+url: http://apievangelist.com/2012/12/16/an-api-should-allow-users-access-to-all-data-in-a-system/
+source: http://apievangelist.com/2012/12/16/an-api-should-allow-users-access-to-all-data-in-a-system/
+domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/flickr-logo.jpg
 ---
 {% include JB/setup %}<p><p><a title="Flickr APII" href="http://www.flickr.com/services/api/"><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/flickr.jpg" alt="" width="200" align="right" /></a></p>

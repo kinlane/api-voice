@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Making Transparency Reports Standard Operating Procedure
-url: http://kinlane.github.io/api-voice/2013/01/23/making-transparency-reports-standard-operating-procedure/
-source: http://kinlane.github.io/api-voice/2013/01/23/making-transparency-reports-standard-operating-procedure/
-domain: kinlane.github.io
+url: http://apievangelist.com/2013/01/23/making-transparency-reports-standard-operating-procedure/
+source: http://apievangelist.com/2013/01/23/making-transparency-reports-standard-operating-procedure/
+domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/US_transparency_report.png
 ---
 {% include JB/setup %}<p><p><a href="http://googleblog.blogspot.com/2013/01/transparency-report-what-it-takes-for.html"><img src="https://s3.amazonaws.com/kinlane-productions/google/US_transparency_report.png" alt="" width="250" align="right" /></a></p>

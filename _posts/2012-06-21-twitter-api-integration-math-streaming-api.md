@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Twitter API Integration Math: Streaming API
-url: http://kinlane.github.io/api-voice/2012/06/21/twitter-api-integration-math-streaming-api/
-source: http://kinlane.github.io/api-voice/2012/06/21/twitter-api-integration-math-streaming-api/
-domain: kinlane.github.io
+url: http://apievangelist.com/2012/06/21/twitter-api-integration-math-streaming-api/
+source: http://apievangelist.com/2012/06/21/twitter-api-integration-math-streaming-api/
+domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/streaming-matrix.jpg
 ---
 {% include JB/setup %}<p><p><img src="http://kinlane-productions.s3.amazonaws.com/twitter/twitter-bird-blue-on-white.png" alt="" width="200" align="right" /></p>

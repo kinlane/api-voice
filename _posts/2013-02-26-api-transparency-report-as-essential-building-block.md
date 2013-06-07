@@ -1,9 +1,9 @@
 ---
 layout: post
 title: API Transparency Report as Essential Building Block
-url: http://kinlane.github.io/api-voice/2013/02/26/api-transparency-report-as-essential-building-block/
-source: http://kinlane.github.io/api-voice/2013/02/26/api-transparency-report-as-essential-building-block/
-domain: kinlane.github.io
+url: http://apievangelist.com/2013/02/26/api-transparency-report-as-essential-building-block/
+source: http://apievangelist.com/2013/02/26/api-transparency-report-as-essential-building-block/
+domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/tag-cloud-transparency-report.jpg
 ---
 {% include JB/setup %}<p><p><img style="padding: 10px;" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/tag-cloud-transparency-report.jpg" alt="" width="325" align="right" /></p>

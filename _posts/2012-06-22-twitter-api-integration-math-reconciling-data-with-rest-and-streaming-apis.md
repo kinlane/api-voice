@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Twitter API Integration Math: Reconciling Data with REST and Streaming APIs
-url: http://kinlane.github.io/api-voice/2012/06/22/twitter-api-integration-math-reconciling-data-with-rest-and-streaming-apis/
-source: http://kinlane.github.io/api-voice/2012/06/22/twitter-api-integration-math-reconciling-data-with-rest-and-streaming-apis/
-domain: kinlane.github.io
+url: http://apievangelist.com/2012/06/22/twitter-api-integration-math-reconciling-data-with-rest-and-streaming-apis/
+source: http://apievangelist.com/2012/06/22/twitter-api-integration-math-reconciling-data-with-rest-and-streaming-apis/
+domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/data-reconciliation.jpg
 ---
 {% include JB/setup %}<p><p><img src="http://kinlane-productions.s3.amazonaws.com/twitter/twitter-bird-blue-on-white.png" alt="" width="200" align="right" /></p>

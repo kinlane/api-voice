@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Are We Eliminating The Open From the Internet By Using APIs?
-url: http://kinlane.github.io/api-voice/2013/02/25/are-we-eliminating-the-open-from-the-internet-by-using-apis/
-source: http://kinlane.github.io/api-voice/2013/02/25/are-we-eliminating-the-open-from-the-internet-by-using-apis/
-domain: kinlane.github.io
+url: http://apievangelist.com/2013/02/25/are-we-eliminating-the-open-from-the-internet-by-using-apis/
+source: http://apievangelist.com/2013/02/25/are-we-eliminating-the-open-from-the-internet-by-using-apis/
+domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/sorry-we-are-closed.jpeg
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/sorry-we-are-closed.jpeg" alt="" width="250" align="right" /></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Putting the Changes to the Netflix Public API in Perspective
-url: http://kinlane.github.io/api-voice/2012/06/28/putting-the-changes-to-the-netflix-public-api-in-perspective/
-source: http://kinlane.github.io/api-voice/2012/06/28/putting-the-changes-to-the-netflix-public-api-in-perspective/
-domain: kinlane.github.io
+url: http://apievangelist.com/2012/06/28/putting-the-changes-to-the-netflix-public-api-in-perspective/
+source: http://apievangelist.com/2012/06/28/putting-the-changes-to-the-netflix-public-api-in-perspective/
+domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/netflix_logo.gif
 ---
 {% include JB/setup %}<p><p><a title="Netflix API" href="http://www.netflix.com/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/netflix_logo.gif" alt="" width="250" align="right" /></a></p>

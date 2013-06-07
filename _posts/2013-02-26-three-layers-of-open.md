@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Three Layers of Open
-url: http://kinlane.github.io/api-voice/2013/02/26/three-layers-of-open/
-source: http://kinlane.github.io/api-voice/2013/02/26/three-layers-of-open/
-domain: kinlane.github.io
+url: http://apievangelist.com/2013/02/26/three-layers-of-open/
+source: http://apievangelist.com/2013/02/26/three-layers-of-open/
+domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/pyro-geeks-open-sign.jpg
 ---
 {% include JB/setup %}<p><table cellspacing="2" cellpadding="2" align="right">

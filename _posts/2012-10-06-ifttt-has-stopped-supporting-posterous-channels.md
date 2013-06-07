@@ -1,9 +1,9 @@
 ---
 layout: post
 title: IFTTT Has Stopped Supporting Posterous Channels
-url: http://kinlane.github.io/api-voice/2012/10/06/ifttt-has-stopped-supporting-posterous-channels/
-source: http://kinlane.github.io/api-voice/2012/10/06/ifttt-has-stopped-supporting-posterous-channels/
-domain: kinlane.github.io
+url: http://apievangelist.com/2012/10/06/ifttt-has-stopped-supporting-posterous-channels/
+source: http://apievangelist.com/2012/10/06/ifttt-has-stopped-supporting-posterous-channels/
+domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/iftt-twitter-posterous.jpeg
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/ifthisthenthat/iftt-twitter-posterous.jpeg" alt="" width="250" align="right" /></p>

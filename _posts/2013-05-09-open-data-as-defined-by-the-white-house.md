@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Open Data as Defined By the White House
-url: http://kinlane.github.io/api-voice/2013/05/09/open-data-as-defined-by-the-white-house/
-source: http://kinlane.github.io/api-voice/2013/05/09/open-data-as-defined-by-the-white-house/
-domain: kinlane.github.io
+url: http://apievangelist.com/2013/05/09/open-data-as-defined-by-the-white-house/
+source: http://apievangelist.com/2013/05/09/open-data-as-defined-by-the-white-house/
+domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/executive-order-open-data.png
 ---
 {% include JB/setup %}<p><p><a href="http://www.whitehouse.gov/sites/default/files/omb/memoranda/2013/m-13-13.pdf" target="_blank"><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/federal-strategy/executive-order-open-data.png" alt="" width="325" align="right" /></a></p>

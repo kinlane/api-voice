@@ -1,9 +1,9 @@
 ---
 layout: post
 title: API Copyright Would Restrict API Interoperability
-url: http://kinlane.github.io/api-voice/2012/12/08/api-copyright-would-restrict-api-interoperability/
-source: http://kinlane.github.io/api-voice/2012/12/08/api-copyright-would-restrict-api-interoperability/
-domain: kinlane.github.io
+url: http://apievangelist.com/2012/12/08/api-copyright-would-restrict-api-interoperability/
+source: http://apievangelist.com/2012/12/08/api-copyright-would-restrict-api-interoperability/
+domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/api-interoperability.jpg
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-interoperability.jpg" alt="" width="250" align="right" /></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Government and Vendor Data Access Via My Platform OAuth
-url: http://kinlane.github.io/api-voice/2013/02/26/government-and-vendor-data-access-via-my-platform-oauth/
-source: http://kinlane.github.io/api-voice/2013/02/26/government-and-vendor-data-access-via-my-platform-oauth/
-domain: kinlane.github.io
+url: http://apievangelist.com/2013/02/26/government-and-vendor-data-access-via-my-platform-oauth/
+source: http://apievangelist.com/2013/02/26/government-and-vendor-data-access-via-my-platform-oauth/
+domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/OAuth2.png
 ---
 {% include JB/setup %}<p><p><a href="http://oauth.net/" target="_blank"><img style="padding: 15px;" src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/oauth/OAuth2.png" alt="" width="150" align="right" /></a></p>

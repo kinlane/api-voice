@@ -1,9 +1,9 @@
 ---
 layout: post
 title: U.S. Precedent for API Copyright Hinges on Oracle v Google
-url: http://kinlane.github.io/api-voice/2012/05/07/us-precedent-for-api-copyright-hinges-on-oracle-v-google/
-source: http://kinlane.github.io/api-voice/2012/05/07/us-precedent-for-api-copyright-hinges-on-oracle-v-google/
-domain: kinlane.github.io
+url: http://apievangelist.com/2012/05/07/us-precedent-for-api-copyright-hinges-on-oracle-v-google/
+source: http://apievangelist.com/2012/05/07/us-precedent-for-api-copyright-hinges-on-oracle-v-google/
+domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/oraclevgoogle.png
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-voice/oraclevgoogle/oraclevgoogle.png" alt="" width="250" align="right" /></p>

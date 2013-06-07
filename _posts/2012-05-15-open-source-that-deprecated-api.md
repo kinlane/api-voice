@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Open Source That Deprecated API
-url: http://kinlane.github.io/api-voice/2012/05/15/open-source-that-deprecated-api/
-source: http://kinlane.github.io/api-voice/2012/05/15/open-source-that-deprecated-api/
-domain: kinlane.github.io
+url: http://apievangelist.com/2012/05/15/open-source-that-deprecated-api/
+source: http://apievangelist.com/2012/05/15/open-source-that-deprecated-api/
+domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/open_source_2.jpg
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/open_source.jpg" alt="" width="250" align="right" /></p>

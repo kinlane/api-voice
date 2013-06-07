@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Twitter Suspends Mobber From Using the Twitter API
-url: http://kinlane.github.io/api-voice/2012/08/03/twitter-suspends-mobber-from-using-the-twitter-api/
-source: http://kinlane.github.io/api-voice/2012/08/03/twitter-suspends-mobber-from-using-the-twitter-api/
-domain: kinlane.github.io
+url: http://apievangelist.com/2012/08/03/twitter-suspends-mobber-from-using-the-twitter-api/
+source: http://apievangelist.com/2012/08/03/twitter-suspends-mobber-from-using-the-twitter-api/
+domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/mobber-logo.jpeg
 ---
 {% include JB/setup %}<p><p><a title="Mobber" href="http://www.mobber.net/"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-voice/mobber-logo.jpeg" alt="" width="200" align="right" /></a></p>

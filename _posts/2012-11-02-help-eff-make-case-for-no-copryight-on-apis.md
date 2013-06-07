@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Help EFF Make Case For No Copryight on APIs
-url: http://kinlane.github.io/api-voice/2012/11/02/help-eff-make-case-for-no-copryight-on-apis/
-source: http://kinlane.github.io/api-voice/2012/11/02/help-eff-make-case-for-no-copryight-on-apis/
-domain: kinlane.github.io
+url: http://apievangelist.com/2012/11/02/help-eff-make-case-for-no-copryight-on-apis/
+source: http://apievangelist.com/2012/11/02/help-eff-make-case-for-no-copryight-on-apis/
+domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/electronic-frontier-foundation-logo.gif
 ---
 {% include JB/setup %}<p><p><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/electronic-frontier-foundation/electronic-frontier-foundation-logo.gif" alt="" width="200" align="right" /></p>

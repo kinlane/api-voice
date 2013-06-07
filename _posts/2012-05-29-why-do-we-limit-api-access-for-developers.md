@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Why Do We Limit API Access for Developers?
-url: http://kinlane.github.io/api-voice/2012/05/29/why-do-we-limit-api-access-for-developers/
-source: http://kinlane.github.io/api-voice/2012/05/29/why-do-we-limit-api-access-for-developers/
-domain: kinlane.github.io
+url: http://apievangelist.com/2012/05/29/why-do-we-limit-api-access-for-developers/
+source: http://apievangelist.com/2012/05/29/why-do-we-limit-api-access-for-developers/
+domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/API-Rate-Limiting.png
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api-evangelist/API-Rate-Limiting.png" alt="" width="300" align="right" /></p>

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Twitter Launches New, Not So Open Graph, aka Twitter Cards
-url: http://kinlane.github.io/api-voice/2012/06/13/twitter-launches-new-not-so-open-graph-aka-twitter-cards/
-source: http://kinlane.github.io/api-voice/2012/06/13/twitter-launches-new-not-so-open-graph-aka-twitter-cards/
-domain: kinlane.github.io
+url: http://apievangelist.com/2012/06/13/twitter-launches-new-not-so-open-graph-aka-twitter-cards/
+source: http://apievangelist.com/2012/06/13/twitter-launches-new-not-so-open-graph-aka-twitter-cards/
+domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/twitter-dave-winer.gif
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/twitter/twitter-dave-winer.gif" alt="" width="250" align="right" /></p>

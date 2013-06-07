@@ -1,9 +1,9 @@
 ---
 layout: post
 title: How Are We Going to Track Private APIs?
-url: http://kinlane.github.io/api-voice/2012/05/22/how-are-we-going-to-track-private-apis/
-source: http://kinlane.github.io/api-voice/2012/05/22/how-are-we-going-to-track-private-apis/
-domain: kinlane.github.io
+url: http://apievangelist.com/2012/05/22/how-are-we-going-to-track-private-apis/
+source: http://apievangelist.com/2012/05/22/how-are-we-going-to-track-private-apis/
+domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/fiber-cable-map.jpeg
 ---
 {% include JB/setup %}<p><table cellpadding="3" align="right">

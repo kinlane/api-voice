@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Provide Release Valves for API Rate Limits
-url: http://kinlane.github.io/api-voice/2012/05/31/provide-release-valves-for-api-rate-limits/
-source: http://kinlane.github.io/api-voice/2012/05/31/provide-release-valves-for-api-rate-limits/
-domain: kinlane.github.io
+url: http://apievangelist.com/2012/05/31/provide-release-valves-for-api-rate-limits/
+source: http://apievangelist.com/2012/05/31/provide-release-valves-for-api-rate-limits/
+domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/Google-APIs-Console-Rate-Limits.png
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/teapot-steaming.jpg" alt="" width="200" align="right" /></p>

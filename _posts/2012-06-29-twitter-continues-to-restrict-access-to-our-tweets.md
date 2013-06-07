@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Twitter Continues to Restrict Access to Our Tweets
-url: http://kinlane.github.io/api-voice/2012/06/29/twitter-continues-to-restrict-access-to-our-tweets/
-source: http://kinlane.github.io/api-voice/2012/06/29/twitter-continues-to-restrict-access-to-our-tweets/
-domain: kinlane.github.io
+url: http://apievangelist.com/2012/06/29/twitter-continues-to-restrict-access-to-our-tweets/
+source: http://apievangelist.com/2012/06/29/twitter-continues-to-restrict-access-to-our-tweets/
+domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/twitter-access.png
 ---
 {% include JB/setup %}<p><p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/twitter/twitter-access.png" alt="" width="200" align="right" /></p>

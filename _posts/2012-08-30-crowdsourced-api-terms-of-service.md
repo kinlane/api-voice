@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Crowdsourced API Terms of Service
-url: http://kinlane.github.io/api-voice/2012/08/30/crowdsourced-api-terms-of-service/
-source: http://kinlane.github.io/api-voice/2012/08/30/crowdsourced-api-terms-of-service/
-domain: kinlane.github.io
+url: http://apievangelist.com/2012/08/30/crowdsourced-api-terms-of-service/
+source: http://apievangelist.com/2012/08/30/crowdsourced-api-terms-of-service/
+domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/developer-rights.jpeg
 ---
 {% include JB/setup %}<p><p><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist/terms-of-service/developer-rights.jpeg" alt="" width="150" align="right" /></p>

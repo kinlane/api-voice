@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The Canary in the Twitter Coal Mine
-url: http://kinlane.github.io/api-voice/2012/08/17/the-canary-in-the-twitter-coal-mine/
-source: http://kinlane.github.io/api-voice/2012/08/17/the-canary-in-the-twitter-coal-mine/
-domain: kinlane.github.io
+url: http://apievangelist.com/2012/08/17/the-canary-in-the-twitter-coal-mine/
+source: http://apievangelist.com/2012/08/17/the-canary-in-the-twitter-coal-mine/
+domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/twitter-bird-yellow-on-white.png
 ---
 {% include JB/setup %}<p><p><img src="http://kinlane-productions.s3.amazonaws.com/twitter/twitter-bird-yellow-on-white.png" alt="" width="200" align="right" /></p>

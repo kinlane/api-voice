@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Investment in Twitter
-url: http://kinlane.github.io/api-voice/2012/07/22/investment-in-twitter/
-source: http://kinlane.github.io/api-voice/2012/07/22/investment-in-twitter/
-domain: kinlane.github.io
+url: http://apievangelist.com/2012/07/22/investment-in-twitter/
+source: http://apievangelist.com/2012/07/22/investment-in-twitter/
+domain: apievangelist.com
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/twitter-bird-blue-on-white.png
 ---
 {% include JB/setup %}<p><p><a title="Twitter" href="http://www.twitter.com/" target="_blank"><img src="http://kinlane-productions.s3.amazonaws.com/twitter/twitter-bird-blue-on-white.png" alt="" width="150" align="right" /></a></p>
