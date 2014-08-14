@@ -1,25 +1,19 @@
 ---
-layout: page
-title: Home Page
+layout: default
+title: API Voice
 ---
 
-<h1>API Voice</h1>
-<p><img style="padding: 15px;" title="API Voice" src="http://kinlane-productions.s3.amazonaws.com/api-voice/Tag-Cloud-API-Voice.png" alt="" width="350" align="right" /></p>
-<p>It will be three years this summer, since I first started <a title="API Evangelist" href="http://apievangelist.com">API Evangelist</a>.  I was looking to evolve my career, and I knew APIs was the space I wanted to focus on. Then in July 2010 I started analyzing the top 250+ APIs, quickly identifying that there were very few people focusing on the <a title="Business of APIs" href="http://apievangelist.com/business_of_apis.php">Business of APIs</a>--I smelled an opportunity.</p>
-<p>Three years later I am still very focused on the Business of APIs and the study of API Evangelism, but I see another area that needs tracking on as well, the <a title="Politics of APIs" href="../../">Politics of APIs</a>.  There is a lot of overlap with the Business of APIs, but I will be paying more attention to:</p>
-<ul class="mainlist">
-<li><strong>Developers</strong> - Developers are one of the most important ingredients in a successful API as well as healthy API industry across all sectors.</li>
-<li><strong>Access</strong> - Make sure we understand distinctions between private, public and &ldquo;open&rdquo; APIs, and public and open APIs remain as accessible as possible.</li>
-<li><strong>Copyright</strong> - Identify and combat attempts to copyright API interfaces.</li>
-<li><strong>Regulation</strong> - Understand the government role in the API economy, and the legal issues around APIs.</li>
-</ul>
-<p>In 3 years of studying the Business of APIs I see a need for more discussion around developers, their access to APIs and the legal aspects of deploying and consuming APIs. Similar to how I started API Evangelist, I'm picking a target to study--instead of the top 250+ APIs, I'm looking at the top 5 API providers:</p>
-<ul class="mainlist">
-<li><a title="Twitter API" href="https://dev.twitter.com/">Twitter API</a></li>
-<li><a title="Facebook Platform" href="http://developers.facebook.com/">Facebook Platform</a></li>
-<li><a title="Google Developer APIs" href="https://developers.google.com/documentation/">Google APIs</a></li>
-<li><a title="LinkedIN Platform" href="https://developer.linkedin.com/">LinkedIn Platform</a></li>
-<li><a title="Amazon Web Services" href="http://aws.amazon.com/">Amazon Web Services</a></li>
-</ul>
-<p>My goal is to spend more time diving into the Business of these influential APIs, while also paying attention to the politics of their API ecosystem. These five API driven platforms playing an ever increasing role in everyday life, how companies and even governments operate.&nbsp; There needs to be more understanding of how they allow access to their APIs, manage their developer ecosystems and how the government, laws, privacy terms of use are coming into play.</p>
-<p>API Evangelist started out as a research blog, and this is what API Voice is--a real-time curation and research platform for me to better understand the politics of the increasingly API driven world around us.</p>
+<h1 class="title">API Voice Blog</h1>
+              
+{% for post in site.posts limit:25 %}
+<div class="post">
+    
+    <p><a href="{{ post.url }}" rel="bookmark" title="{{ post.title }}" style="color:#000;"><h4><strong>{{ post.title }}</strong></h4></a>
+    <p><i><strong><span class="small">Posted on</span> <span class="post-date">{{ post.date | date:"%m-%d-%Y" }}</span></strong></i></p>
+    <p><a href="{{ post.url }}" rel="bookmark" title="{{ post.title }}"><img src="{{ post.image }}" width="150" align="right" /></a></p>
+    <p>{{ post.content | strip_html | truncatewords: 100 }}...<a href="{{ post.url }}" rel="bookmark" title="{{ post.title }}" style="color:#000; font-weight: bold;">read more</a>.</p>
+    <br />
+    <hr />     
+   
+</div>   
+{% endfor %}                   
