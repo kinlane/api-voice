@@ -35,7 +35,7 @@
         <script type="text/javascript">
         function listSponsors()
             {
-            $.getJSON('/data/sponsors.json', function(data) {               
+            $.getJSON('https://s3.amazonaws.com/kinlane-productions/json/sponsors.json', function(data) {               
                 $.each(data['sponsors'], function(key, val) {                  
                 var template = $('#parterListingTemplate').html();
                 var html = Mustache.to_html(template, val);
@@ -57,18 +57,20 @@
     </header>
 
     <div class="content container">
-    	
+    	    	
+      <p align="center"><img src="http://kinlane-productions.s3.amazonaws.com/api-voice/api-voice-logo.png" align="center" width="65%" style="padding-bottom: 10px;" /></p>
+
       {{ content }}      
 	      
 	     <div class="footer">
 		    <ul>
-		    	<li><a href="/">101</a></li>
+		    	<li><a href="/">Home</a></li>
 		    	<li><a href="/blog/">Blog</a></li>
 		    	<li><a href="http://kinlane.com/about/">About</a></li>
 		    	<li><a href="http://apievangelist.com">API Evangelist</a></li>
 		    	<li><a href="http://apicommons.org">API Commons</a></li>
 		    	<li><a href="http://apisjson.org">APIs.json</a></li>
-		    	<li><a href="/branding-guidelines.html">Branding Guidelines</a></li>
+		    	<li><a href="http://apievangelist.com/branding-guidelines.html">Branding Guidelines</a></li>
 		    	<li><a href="http://kinlane.com/contact/">Contact</a></li>
 		    </ul>
 		</div>      
